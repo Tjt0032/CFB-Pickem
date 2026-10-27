@@ -10,7 +10,9 @@ A pick is correct when it equals that game's `winner`. Games with `"winner": nul
 2. On each finished game, set `winner` to the winning team name (the `home` or `away` string, matched exactly). Leave `winner` as `null` if it has not been played.
 3. Add new games as needed: `key`, `week`, `away`, `home`, `picks` for Tyler, Tatum, and Abigail, and `winner`.
 4. Set `asOfWeek` to the week the recap should feature, and update `asOfNote` (it is shown in the footer).
-5. Commit and push to `main`. GitHub Pages serves this repo from the root. Reload the site; the page fetches `data.json` on each visit.
+5. Commit and push to `main`. Reload after the Pages deploy; the page fetches `data.json` on each visit.
+
+`.github/workflows/pages.yml` publishes the repo root with GitHub's Pages actions (`configure-pages`, `upload-pages-artifact`, `deploy-pages`) on every push to `main`. The public URL is `https://tjt0032.github.io/CFB-Pickem/`.
 
 Keep the player names Tyler, Tatum, and Abigail so their colors stay consistent. `weekDates` is a map of week number to `YYYY-MM-DD`. `conferences` lists the teams in each group the conference table uses.
 
