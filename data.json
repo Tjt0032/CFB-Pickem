@@ -1,0 +1,5844 @@
+{
+ "season": 2026,
+ "asOfWeek": 8,
+ "asOfNote": "Results through Week 8 (Oct 24, 2026)",
+ "players": [
+  "Tyler",
+  "Tatum",
+  "Abigail"
+ ],
+ "weekDates": {
+  "0": "2026-08-29",
+  "1": "2026-09-05",
+  "2": "2026-09-12",
+  "3": "2026-09-19",
+  "4": "2026-09-26",
+  "5": "2026-10-03",
+  "6": "2026-10-10",
+  "7": "2026-10-17",
+  "8": "2026-10-24",
+  "9": "2026-10-31",
+  "10": "2026-11-07",
+  "11": "2026-11-14",
+  "12": "2026-11-21",
+  "13": "2026-11-28"
+ },
+ "games": [
+  {
+   "key": "W00_FloridaState_NewMexicoState",
+   "week": 0,
+   "away": "New Mexico State",
+   "home": "Florida State",
+   "picks": {
+    "Tyler": "Florida State",
+    "Tatum": "Florida State",
+    "Abigail": "Florida State"
+   },
+   "winner": "Florida State"
+  },
+  {
+   "key": "W00_NCState_Virginia",
+   "week": 0,
+   "away": "Virginia",
+   "home": "NC State",
+   "picks": {
+    "Tyler": "Virginia",
+    "Tatum": "Virginia",
+    "Abigail": "Virginia"
+   },
+   "winner": "Virginia"
+  },
+  {
+   "key": "W00_NorthCarolina_TCU",
+   "week": 0,
+   "away": "TCU",
+   "home": "North Carolina",
+   "picks": {
+    "Tyler": "TCU",
+    "Tatum": "TCU",
+    "Abigail": "TCU"
+   },
+   "winner": "North Carolina"
+  },
+  {
+   "key": "W00_Hawaii_Stanford",
+   "week": 0,
+   "away": "Hawaii",
+   "home": "Stanford",
+   "picks": {
+    "Tyler": "Stanford",
+    "Tatum": "Stanford",
+    "Abigail": "Hawaii"
+   },
+   "winner": "Stanford"
+  },
+  {
+   "key": "W00_SanJoseState_USC",
+   "week": 0,
+   "away": "San Jose State",
+   "home": "USC",
+   "picks": {
+    "Tyler": "USC",
+    "Tatum": "USC",
+    "Abigail": "USC"
+   },
+   "winner": "USC"
+  },
+  {
+   "key": "W01_BostonCollege_Cincinnati",
+   "week": 1,
+   "away": "Boston College",
+   "home": "Cincinnati",
+   "picks": {
+    "Tyler": "Cincinnati",
+    "Tatum": "Cincinnati",
+    "Abigail": "Cincinnati"
+   },
+   "winner": "Cincinnati"
+  },
+  {
+   "key": "W01_California_UCLA",
+   "week": 1,
+   "away": "UCLA",
+   "home": "California",
+   "picks": {
+    "Tyler": "UCLA",
+    "Tatum": "California",
+    "Abigail": "California"
+   },
+   "winner": "UCLA"
+  },
+  {
+   "key": "W01_Clemson_LSU",
+   "week": 1,
+   "away": "Clemson",
+   "home": "LSU",
+   "picks": {
+    "Tyler": "LSU",
+    "Tatum": "LSU",
+    "Abigail": "LSU"
+   },
+   "winner": "LSU"
+  },
+  {
+   "key": "W01_Duke_Tulane",
+   "week": 1,
+   "away": "Tulane",
+   "home": "Duke",
+   "picks": {
+    "Tyler": "Duke",
+    "Tatum": "Duke",
+    "Abigail": "Duke"
+   },
+   "winner": "Duke"
+  },
+  {
+   "key": "W01_FloridaState_SMU",
+   "week": 1,
+   "away": "SMU",
+   "home": "Florida State",
+   "picks": {
+    "Tyler": "SMU",
+    "Tatum": "Florida State",
+    "Abigail": "SMU"
+   },
+   "winner": "SMU"
+  },
+  {
+   "key": "W01_Colorado_GeorgiaTech",
+   "week": 1,
+   "away": "Colorado",
+   "home": "Georgia Tech",
+   "picks": {
+    "Tyler": "Georgia Tech",
+    "Tatum": "Georgia Tech",
+    "Abigail": "Georgia Tech"
+   },
+   "winner": "Colorado"
+  },
+  {
+   "key": "W01_Louisville_OleMiss",
+   "week": 1,
+   "away": "Ole Miss",
+   "home": "Louisville",
+   "picks": {
+    "Tyler": "Ole Miss",
+    "Tatum": "Ole Miss",
+    "Abigail": "Ole Miss"
+   },
+   "winner": "Ole Miss"
+  },
+  {
+   "key": "W01_MiamiFL_Stanford",
+   "week": 1,
+   "away": "Miami (FL)",
+   "home": "Stanford",
+   "picks": {
+    "Tyler": "Miami (FL)",
+    "Tatum": "Miami (FL)",
+    "Abigail": "Miami (FL)"
+   },
+   "winner": "Miami (FL)"
+  },
+  {
+   "key": "W01_MiamiOH_Pittsburgh",
+   "week": 1,
+   "away": "Miami (OH)",
+   "home": "Pittsburgh",
+   "picks": {
+    "Tyler": "Pittsburgh",
+    "Tatum": "Pittsburgh",
+    "Abigail": "Pittsburgh"
+   },
+   "winner": "Pittsburgh"
+  },
+  {
+   "key": "W01_NewHampshire_Syracuse",
+   "week": 1,
+   "away": "New Hampshire",
+   "home": "Syracuse",
+   "picks": {
+    "Tyler": "Syracuse",
+    "Tatum": "Syracuse",
+    "Abigail": "Syracuse"
+   },
+   "winner": "Syracuse"
+  },
+  {
+   "key": "W01_VMI_VirginiaTech",
+   "week": 1,
+   "away": "VMI",
+   "home": "Virginia Tech",
+   "picks": {
+    "Tyler": "Virginia Tech",
+    "Tatum": "Virginia Tech",
+    "Abigail": "Virginia Tech"
+   },
+   "winner": "Virginia Tech"
+  },
+  {
+   "key": "W01_Akron_WakeForest",
+   "week": 1,
+   "away": "Akron",
+   "home": "Wake Forest",
+   "picks": {
+    "Tyler": "Wake Forest",
+    "Tatum": "Wake Forest",
+    "Abigail": "Wake Forest"
+   },
+   "winner": "Wake Forest"
+  },
+  {
+   "key": "W01_Arizona_NorthernArizona",
+   "week": 1,
+   "away": "Northern Arizona",
+   "home": "Arizona",
+   "picks": {
+    "Tyler": "Arizona",
+    "Tatum": "Arizona",
+    "Abigail": "Arizona"
+   },
+   "winner": "Arizona"
+  },
+  {
+   "key": "W01_ArizonaState_MorganState",
+   "week": 1,
+   "away": "Morgan State",
+   "home": "Arizona State",
+   "picks": {
+    "Tyler": "Arizona State",
+    "Tatum": "Arizona State",
+    "Abigail": "Arizona State"
+   },
+   "winner": "Arizona State"
+  },
+  {
+   "key": "W01_Auburn_Baylor",
+   "week": 1,
+   "away": "Auburn",
+   "home": "Baylor",
+   "picks": {
+    "Tyler": "Baylor",
+    "Tatum": "Auburn",
+    "Abigail": "Auburn"
+   },
+   "winner": "Auburn"
+  },
+  {
+   "key": "W01_BYU_UtahTech",
+   "week": 1,
+   "away": "Utah Tech",
+   "home": "BYU",
+   "picks": {
+    "Tyler": "BYU",
+    "Tatum": "BYU",
+    "Abigail": "BYU"
+   },
+   "winner": "BYU"
+  },
+  {
+   "key": "W01_Houston_OregonState",
+   "week": 1,
+   "away": "Oregon State",
+   "home": "Houston",
+   "picks": {
+    "Tyler": "Houston",
+    "Tatum": "Houston",
+    "Abigail": "Houston"
+   },
+   "winner": "Houston"
+  },
+  {
+   "key": "W01_IowaState_SoutheastMissouriState",
+   "week": 1,
+   "away": "Southeast Missouri State",
+   "home": "Iowa State",
+   "picks": {
+    "Tyler": "Iowa State",
+    "Tatum": "Iowa State",
+    "Abigail": "Iowa State"
+   },
+   "winner": "Iowa State"
+  },
+  {
+   "key": "W01_Kansas_LongIsland",
+   "week": 1,
+   "away": "Long Island",
+   "home": "Kansas",
+   "picks": {
+    "Tyler": "Kansas",
+    "Tatum": "Kansas",
+    "Abigail": "Kansas"
+   },
+   "winner": "Kansas"
+  },
+  {
+   "key": "W01_KansasState_Nicholls",
+   "week": 1,
+   "away": "Nicholls",
+   "home": "Kansas State",
+   "picks": {
+    "Tyler": "Kansas State",
+    "Tatum": "Kansas State",
+    "Abigail": "Kansas State"
+   },
+   "winner": "Kansas State"
+  },
+  {
+   "key": "W01_OklahomaState_Tulsa",
+   "week": 1,
+   "away": "Oklahoma State",
+   "home": "Tulsa",
+   "picks": {
+    "Tyler": "Oklahoma State",
+    "Tatum": "Oklahoma State",
+    "Abigail": "Oklahoma State"
+   },
+   "winner": "Tulsa"
+  },
+  {
+   "key": "W01_AbileneChristian_TexasTech",
+   "week": 1,
+   "away": "Abilene Christian",
+   "home": "Texas Tech",
+   "picks": {
+    "Tyler": "Texas Tech",
+    "Tatum": "Texas Tech",
+    "Abigail": "Texas Tech"
+   },
+   "winner": "Texas Tech"
+  },
+  {
+   "key": "W01_BethuneCookman_UCF",
+   "week": 1,
+   "away": "Bethune-Cookman",
+   "home": "UCF",
+   "picks": {
+    "Tyler": "UCF",
+    "Tatum": "UCF",
+    "Abigail": "UCF"
+   },
+   "winner": "UCF"
+  },
+  {
+   "key": "W01_Idaho_Utah",
+   "week": 1,
+   "away": "Idaho",
+   "home": "Utah",
+   "picks": {
+    "Tyler": "Utah",
+    "Tatum": "Utah",
+    "Abigail": "Utah"
+   },
+   "winner": "Utah"
+  },
+  {
+   "key": "W01_CoastalCarolina_WestVirginia",
+   "week": 1,
+   "away": "Coastal Carolina",
+   "home": "West Virginia",
+   "picks": {
+    "Tyler": "West Virginia",
+    "Tatum": "Coastal Carolina",
+    "Abigail": "West Virginia"
+   },
+   "winner": "West Virginia"
+  },
+  {
+   "key": "W01_Alabama_EastCarolina",
+   "week": 1,
+   "away": "East Carolina",
+   "home": "Alabama",
+   "picks": {
+    "Tyler": "Alabama",
+    "Tatum": "Alabama",
+    "Abigail": "Alabama"
+   },
+   "winner": "Alabama"
+  },
+  {
+   "key": "W01_Arkansas_NorthAlabama",
+   "week": 1,
+   "away": "North Alabama",
+   "home": "Arkansas",
+   "picks": {
+    "Tyler": "Arkansas",
+    "Tatum": "Arkansas",
+    "Abigail": "Arkansas"
+   },
+   "winner": "Arkansas"
+  },
+  {
+   "key": "W01_Florida_FloridaAtlantic",
+   "week": 1,
+   "away": "Florida Atlantic",
+   "home": "Florida",
+   "picks": {
+    "Tyler": "Florida",
+    "Tatum": "Florida",
+    "Abigail": "Florida"
+   },
+   "winner": "Florida"
+  },
+  {
+   "key": "W01_Georgia_TennesseeState",
+   "week": 1,
+   "away": "Tennessee State",
+   "home": "Georgia",
+   "picks": {
+    "Tyler": "Georgia",
+    "Tatum": "Georgia",
+    "Abigail": "Georgia"
+   },
+   "winner": "Georgia"
+  },
+  {
+   "key": "W01_Kentucky_YoungstownState",
+   "week": 1,
+   "away": "Youngstown State",
+   "home": "Kentucky",
+   "picks": {
+    "Tyler": "Kentucky",
+    "Tatum": "Kentucky",
+    "Abigail": "Kentucky"
+   },
+   "winner": "Kentucky"
+  },
+  {
+   "key": "W01_MississippiState_ULMonroe",
+   "week": 1,
+   "away": "UL Monroe",
+   "home": "Mississippi State",
+   "picks": {
+    "Tyler": "Mississippi State",
+    "Tatum": "Mississippi State",
+    "Abigail": "Mississippi State"
+   },
+   "winner": "Mississippi State"
+  },
+  {
+   "key": "W01_ArkansasPineBluff_Missouri",
+   "week": 1,
+   "away": "Arkansas-Pine Bluff",
+   "home": "Missouri",
+   "picks": {
+    "Tyler": "Missouri",
+    "Tatum": "Missouri",
+    "Abigail": "Missouri"
+   },
+   "winner": "Missouri"
+  },
+  {
+   "key": "W01_Oklahoma_UTEP",
+   "week": 1,
+   "away": "UTEP",
+   "home": "Oklahoma",
+   "picks": {
+    "Tyler": "Oklahoma",
+    "Tatum": "Oklahoma",
+    "Abigail": "Oklahoma"
+   },
+   "winner": "Oklahoma"
+  },
+  {
+   "key": "W01_KentState_SouthCarolina",
+   "week": 1,
+   "away": "Kent State",
+   "home": "South Carolina",
+   "picks": {
+    "Tyler": "South Carolina",
+    "Tatum": "South Carolina",
+    "Abigail": "South Carolina"
+   },
+   "winner": "South Carolina"
+  },
+  {
+   "key": "W01_Furman_Tennessee",
+   "week": 1,
+   "away": "Furman",
+   "home": "Tennessee",
+   "picks": {
+    "Tyler": "Tennessee",
+    "Tatum": "Tennessee",
+    "Abigail": "Tennessee"
+   },
+   "winner": "Tennessee"
+  },
+  {
+   "key": "W01_Texas_TexasState",
+   "week": 1,
+   "away": "Texas State",
+   "home": "Texas",
+   "picks": {
+    "Tyler": "Texas",
+    "Tatum": "Texas",
+    "Abigail": "Texas"
+   },
+   "winner": "Texas"
+  },
+  {
+   "key": "W01_MissouriState_TexasAM",
+   "week": 1,
+   "away": "Missouri State",
+   "home": "Texas A&M",
+   "picks": {
+    "Tyler": "Texas A&M",
+    "Tatum": "Texas A&M",
+    "Abigail": "Texas A&M"
+   },
+   "winner": "Texas A&M"
+  },
+  {
+   "key": "W01_AustinPeay_Vanderbilt",
+   "week": 1,
+   "away": "Austin Peay",
+   "home": "Vanderbilt",
+   "picks": {
+    "Tyler": "Vanderbilt",
+    "Tatum": "Vanderbilt",
+    "Abigail": "Vanderbilt"
+   },
+   "winner": "Vanderbilt"
+  },
+  {
+   "key": "W01_Illinois_UAB",
+   "week": 1,
+   "away": "UAB",
+   "home": "Illinois",
+   "picks": {
+    "Tyler": "Illinois",
+    "Tatum": "Illinois",
+    "Abigail": "Illinois"
+   },
+   "winner": "Illinois"
+  },
+  {
+   "key": "W01_Indiana_NorthTexas",
+   "week": 1,
+   "away": "North Texas",
+   "home": "Indiana",
+   "picks": {
+    "Tyler": "Indiana",
+    "Tatum": "Indiana",
+    "Abigail": "Indiana"
+   },
+   "winner": "Indiana"
+  },
+  {
+   "key": "W01_Iowa_NorthernIllinois",
+   "week": 1,
+   "away": "Northern Illinois",
+   "home": "Iowa",
+   "picks": {
+    "Tyler": "Iowa",
+    "Tatum": "Iowa",
+    "Abigail": "Iowa"
+   },
+   "winner": "Iowa"
+  },
+  {
+   "key": "W01_Hampton_Maryland",
+   "week": 1,
+   "away": "Hampton",
+   "home": "Maryland",
+   "picks": {
+    "Tyler": "Maryland",
+    "Tatum": "Maryland",
+    "Abigail": "Maryland"
+   },
+   "winner": "Maryland"
+  },
+  {
+   "key": "W01_Michigan_WesternMichigan",
+   "week": 1,
+   "away": "Western Michigan",
+   "home": "Michigan",
+   "picks": {
+    "Tyler": "Michigan",
+    "Tatum": "Michigan",
+    "Abigail": "Michigan"
+   },
+   "winner": "Michigan"
+  },
+  {
+   "key": "W01_MichiganState_Toledo",
+   "week": 1,
+   "away": "Toledo",
+   "home": "Michigan State",
+   "picks": {
+    "Tyler": "Michigan State",
+    "Tatum": "Michigan State",
+    "Abigail": "Michigan State"
+   },
+   "winner": "Michigan State"
+  },
+  {
+   "key": "W01_EasternIllinois_Minnesota",
+   "week": 1,
+   "away": "Eastern Illinois",
+   "home": "Minnesota",
+   "picks": {
+    "Tyler": "Minnesota",
+    "Tatum": "Minnesota",
+    "Abigail": "Minnesota"
+   },
+   "winner": "Minnesota"
+  },
+  {
+   "key": "W01_Nebraska_Ohio",
+   "week": 1,
+   "away": "Ohio",
+   "home": "Nebraska",
+   "picks": {
+    "Tyler": "Nebraska",
+    "Tatum": "Nebraska",
+    "Abigail": "Nebraska"
+   },
+   "winner": "Nebraska"
+  },
+  {
+   "key": "W01_Northwestern_SouthDakotaState",
+   "week": 1,
+   "away": "South Dakota State",
+   "home": "Northwestern",
+   "picks": {
+    "Tyler": "Northwestern",
+    "Tatum": "Northwestern",
+    "Abigail": "Northwestern"
+   },
+   "winner": "Northwestern"
+  },
+  {
+   "key": "W01_BallState_OhioState",
+   "week": 1,
+   "away": "Ball State",
+   "home": "Ohio State",
+   "picks": {
+    "Tyler": "Ohio State",
+    "Tatum": "Ohio State",
+    "Abigail": "Ohio State"
+   },
+   "winner": "Ohio State"
+  },
+  {
+   "key": "W01_BoiseState_Oregon",
+   "week": 1,
+   "away": "Boise State",
+   "home": "Oregon",
+   "picks": {
+    "Tyler": "Oregon",
+    "Tatum": "Oregon",
+    "Abigail": "Oregon"
+   },
+   "winner": "Oregon"
+  },
+  {
+   "key": "W01_Marshall_PennState",
+   "week": 1,
+   "away": "Marshall",
+   "home": "Penn State",
+   "picks": {
+    "Tyler": "Penn State",
+    "Tatum": "Penn State",
+    "Abigail": "Penn State"
+   },
+   "winner": "Penn State"
+  },
+  {
+   "key": "W01_IndianaState_Purdue",
+   "week": 1,
+   "away": "Indiana State",
+   "home": "Purdue",
+   "picks": {
+    "Tyler": "Purdue",
+    "Tatum": "Purdue",
+    "Abigail": "Purdue"
+   },
+   "winner": "Purdue"
+  },
+  {
+   "key": "W01_Rutgers_UMass",
+   "week": 1,
+   "away": "UMass",
+   "home": "Rutgers",
+   "picks": {
+    "Tyler": "Rutgers",
+    "Tatum": "Rutgers",
+    "Abigail": "Rutgers"
+   },
+   "winner": "UMass"
+  },
+  {
+   "key": "W01_FresnoState_USC",
+   "week": 1,
+   "away": "Fresno State",
+   "home": "USC",
+   "picks": {
+    "Tyler": "USC",
+    "Tatum": "USC",
+    "Abigail": "USC"
+   },
+   "winner": "USC"
+  },
+  {
+   "key": "W01_Washington_WashingtonState",
+   "week": 1,
+   "away": "Washington State",
+   "home": "Washington",
+   "picks": {
+    "Tyler": "Washington",
+    "Tatum": "Washington",
+    "Abigail": "Washington"
+   },
+   "winner": "Washington"
+  },
+  {
+   "key": "W01_NotreDame_Wisconsin",
+   "week": 1,
+   "away": "Notre Dame",
+   "home": "Wisconsin",
+   "picks": {
+    "Tyler": "Notre Dame",
+    "Tatum": "Notre Dame",
+    "Abigail": "Wisconsin"
+   },
+   "winner": "Notre Dame"
+  },
+  {
+   "key": "W02_BostonCollege_Rutgers",
+   "week": 2,
+   "away": "Rutgers",
+   "home": "Boston College",
+   "picks": {
+    "Tyler": "Rutgers",
+    "Tatum": "Rutgers",
+    "Abigail": "Rutgers"
+   },
+   "winner": "Boston College"
+  },
+  {
+   "key": "W02_California_Syracuse",
+   "week": 2,
+   "away": "California",
+   "home": "Syracuse",
+   "picks": {
+    "Tyler": "California",
+    "Tatum": "Syracuse",
+    "Abigail": "Syracuse"
+   },
+   "winner": "California"
+  },
+  {
+   "key": "W02_Clemson_GeorgiaSouthern",
+   "week": 2,
+   "away": "Georgia Southern",
+   "home": "Clemson",
+   "picks": {
+    "Tyler": "Clemson",
+    "Tatum": "Clemson",
+    "Abigail": "Clemson"
+   },
+   "winner": "Clemson"
+  },
+  {
+   "key": "W02_Duke_Illinois",
+   "week": 2,
+   "away": "Duke",
+   "home": "Illinois",
+   "picks": {
+    "Tyler": "Illinois",
+    "Tatum": "Illinois",
+    "Abigail": "Illinois"
+   },
+   "winner": "Duke"
+  },
+  {
+   "key": "W02_GeorgiaTech_Tennessee",
+   "week": 2,
+   "away": "Tennessee",
+   "home": "Georgia Tech",
+   "picks": {
+    "Tyler": "Tennessee",
+    "Tatum": "Tennessee",
+    "Abigail": "Georgia Tech"
+   },
+   "winner": "Tennessee"
+  },
+  {
+   "key": "W02_Louisville_Villanova",
+   "week": 2,
+   "away": "Villanova",
+   "home": "Louisville",
+   "picks": {
+    "Tyler": "Louisville",
+    "Tatum": "Louisville",
+    "Abigail": "Louisville"
+   },
+   "winner": "Louisville"
+  },
+  {
+   "key": "W02_FloridaAM_MiamiFL",
+   "week": 2,
+   "away": "Florida A&M",
+   "home": "Miami (FL)",
+   "picks": {
+    "Tyler": "Miami (FL)",
+    "Tatum": "Miami (FL)",
+    "Abigail": "Miami (FL)"
+   },
+   "winner": "Miami (FL)"
+  },
+  {
+   "key": "W02_NCState_Richmond",
+   "week": 2,
+   "away": "Richmond",
+   "home": "NC State",
+   "picks": {
+    "Tyler": "Richmond",
+    "Tatum": "NC State",
+    "Abigail": "NC State"
+   },
+   "winner": "NC State"
+  },
+  {
+   "key": "W02_EastTennesseeState_NorthCarolina",
+   "week": 2,
+   "away": "East Tennessee State",
+   "home": "North Carolina",
+   "picks": {
+    "Tyler": "North Carolina",
+    "Tatum": "North Carolina",
+    "Abigail": "North Carolina"
+   },
+   "winner": "North Carolina"
+  },
+  {
+   "key": "W02_Pittsburgh_UCF",
+   "week": 2,
+   "away": "UCF",
+   "home": "Pittsburgh",
+   "picks": {
+    "Tyler": "UCF",
+    "Tatum": "UCF",
+    "Abigail": "UCF"
+   },
+   "winner": "Pittsburgh"
+  },
+  {
+   "key": "W02_SMU_UCDavis",
+   "week": 2,
+   "away": "UC Davis",
+   "home": "SMU",
+   "picks": {
+    "Tyler": "SMU",
+    "Tatum": "SMU",
+    "Abigail": "SMU"
+   },
+   "winner": "SMU"
+  },
+  {
+   "key": "W02_NorfolkState_Virginia",
+   "week": 2,
+   "away": "Norfolk State",
+   "home": "Virginia",
+   "picks": {
+    "Tyler": "Virginia",
+    "Tatum": "Virginia",
+    "Abigail": "Virginia"
+   },
+   "winner": "Virginia"
+  },
+  {
+   "key": "W02_OldDominion_VirginiaTech",
+   "week": 2,
+   "away": "Old Dominion",
+   "home": "Virginia Tech",
+   "picks": {
+    "Tyler": "Virginia Tech",
+    "Tatum": "Virginia Tech",
+    "Abigail": "Virginia Tech"
+   },
+   "winner": "Virginia Tech"
+  },
+  {
+   "key": "W02_Purdue_WakeForest",
+   "week": 2,
+   "away": "Wake Forest",
+   "home": "Purdue",
+   "picks": {
+    "Tyler": "Purdue",
+    "Tatum": "Purdue",
+    "Abigail": "Purdue"
+   },
+   "winner": "Wake Forest"
+  },
+  {
+   "key": "W02_Arizona_BYU",
+   "week": 2,
+   "away": "Arizona",
+   "home": "BYU",
+   "picks": {
+    "Tyler": "BYU",
+    "Tatum": "BYU",
+    "Abigail": "BYU"
+   },
+   "winner": "BYU"
+  },
+  {
+   "key": "W02_ArizonaState_TexasAM",
+   "week": 2,
+   "away": "Arizona State",
+   "home": "Texas A&M",
+   "picks": {
+    "Tyler": "Texas A&M",
+    "Tatum": "Texas A&M",
+    "Abigail": "Texas A&M"
+   },
+   "winner": "Texas A&M"
+  },
+  {
+   "key": "W02_Baylor_PrairieViewAM",
+   "week": 2,
+   "away": "Prairie View A&M",
+   "home": "Baylor",
+   "picks": {
+    "Tyler": "Baylor",
+    "Tatum": "Baylor",
+    "Abigail": "Baylor"
+   },
+   "winner": "Baylor"
+  },
+  {
+   "key": "W02_Cincinnati_WesternCarolina",
+   "week": 2,
+   "away": "Western Carolina",
+   "home": "Cincinnati",
+   "picks": {
+    "Tyler": "Cincinnati",
+    "Tatum": "Cincinnati",
+    "Abigail": "Cincinnati"
+   },
+   "winner": "Cincinnati"
+  },
+  {
+   "key": "W02_Colorado_WeberState",
+   "week": 2,
+   "away": "Weber State",
+   "home": "Colorado",
+   "picks": {
+    "Tyler": "Colorado",
+    "Tatum": "Colorado",
+    "Abigail": "Colorado"
+   },
+   "winner": "Colorado"
+  },
+  {
+   "key": "W02_Houston_Southern",
+   "week": 2,
+   "away": "Southern",
+   "home": "Houston",
+   "picks": {
+    "Tyler": "Houston",
+    "Tatum": "Houston",
+    "Abigail": "Houston"
+   },
+   "winner": "Houston"
+  },
+  {
+   "key": "W02_Iowa_IowaState",
+   "week": 2,
+   "away": "Iowa State",
+   "home": "Iowa",
+   "picks": {
+    "Tyler": "Iowa",
+    "Tatum": "Iowa State",
+    "Abigail": "Iowa"
+   },
+   "winner": "Iowa"
+  },
+  {
+   "key": "W02_Kansas_Missouri",
+   "week": 2,
+   "away": "Missouri",
+   "home": "Kansas",
+   "picks": {
+    "Tyler": "Missouri",
+    "Tatum": "Missouri",
+    "Abigail": "Kansas"
+   },
+   "winner": "Missouri"
+  },
+  {
+   "key": "W02_KansasState_WashingtonState",
+   "week": 2,
+   "away": "Washington State",
+   "home": "Kansas State",
+   "picks": {
+    "Tyler": "Kansas State",
+    "Tatum": "Kansas State",
+    "Abigail": "Washington State"
+   },
+   "winner": "Kansas State"
+  },
+  {
+   "key": "W02_OklahomaState_Oregon",
+   "week": 2,
+   "away": "Oregon",
+   "home": "Oklahoma State",
+   "picks": {
+    "Tyler": "Oregon",
+    "Tatum": "Oregon",
+    "Abigail": "Oregon"
+   },
+   "winner": "Oklahoma State"
+  },
+  {
+   "key": "W02_Grambling_TCU",
+   "week": 2,
+   "away": "Grambling",
+   "home": "TCU",
+   "picks": {
+    "Tyler": "TCU",
+    "Tatum": "TCU",
+    "Abigail": "TCU"
+   },
+   "winner": "TCU"
+  },
+  {
+   "key": "W02_OregonState_TexasTech",
+   "week": 2,
+   "away": "Texas Tech",
+   "home": "Oregon State",
+   "picks": {
+    "Tyler": "Texas Tech",
+    "Tatum": "Texas Tech",
+    "Abigail": "Texas Tech"
+   },
+   "winner": "Texas Tech"
+  },
+  {
+   "key": "W02_Arkansas_Utah",
+   "week": 2,
+   "away": "Arkansas",
+   "home": "Utah",
+   "picks": {
+    "Tyler": "Utah",
+    "Tatum": "Utah",
+    "Abigail": "Utah"
+   },
+   "winner": "Utah"
+  },
+  {
+   "key": "W02_UTMartin_WestVirginia",
+   "week": 2,
+   "away": "UT Martin",
+   "home": "West Virginia",
+   "picks": {
+    "Tyler": "West Virginia",
+    "Tatum": "West Virginia",
+    "Abigail": "West Virginia"
+   },
+   "winner": "West Virginia"
+  },
+  {
+   "key": "W02_Alabama_Kentucky",
+   "week": 2,
+   "away": "Alabama",
+   "home": "Kentucky",
+   "picks": {
+    "Tyler": "Alabama",
+    "Tatum": "Alabama",
+    "Abigail": "Alabama"
+   },
+   "winner": "Alabama"
+  },
+  {
+   "key": "W02_Auburn_SouthernMiss",
+   "week": 2,
+   "away": "Southern Miss",
+   "home": "Auburn",
+   "picks": {
+    "Tyler": "Auburn",
+    "Tatum": "Auburn",
+    "Abigail": "Auburn"
+   },
+   "winner": "Auburn"
+  },
+  {
+   "key": "W02_Campbell_Florida",
+   "week": 2,
+   "away": "Campbell",
+   "home": "Florida",
+   "picks": {
+    "Tyler": "Florida",
+    "Tatum": "Florida",
+    "Abigail": "Florida"
+   },
+   "winner": "Florida"
+  },
+  {
+   "key": "W02_Georgia_WesternKentucky",
+   "week": 2,
+   "away": "Western Kentucky",
+   "home": "Georgia",
+   "picks": {
+    "Tyler": "Georgia",
+    "Tatum": "Georgia",
+    "Abigail": "Georgia"
+   },
+   "winner": "Georgia"
+  },
+  {
+   "key": "W02_LSU_LouisianaTech",
+   "week": 2,
+   "away": "Louisiana Tech",
+   "home": "LSU",
+   "picks": {
+    "Tyler": "LSU",
+    "Tatum": "LSU",
+    "Abigail": "LSU"
+   },
+   "winner": "LSU"
+  },
+  {
+   "key": "W02_Minnesota_MississippiState",
+   "week": 2,
+   "away": "Mississippi State",
+   "home": "Minnesota",
+   "picks": {
+    "Tyler": "Minnesota",
+    "Tatum": "Minnesota",
+    "Abigail": "Minnesota"
+   },
+   "winner": "Mississippi State"
+  },
+  {
+   "key": "W02_Michigan_Oklahoma",
+   "week": 2,
+   "away": "Oklahoma",
+   "home": "Michigan",
+   "picks": {
+    "Tyler": "Oklahoma",
+    "Tatum": "Michigan",
+    "Abigail": "Oklahoma"
+   },
+   "winner": "Michigan"
+  },
+  {
+   "key": "W02_Charlotte_OleMiss",
+   "week": 2,
+   "away": "Charlotte",
+   "home": "Ole Miss",
+   "picks": {
+    "Tyler": "Ole Miss",
+    "Tatum": "Ole Miss",
+    "Abigail": "Ole Miss"
+   },
+   "winner": "Ole Miss"
+  },
+  {
+   "key": "W02_SouthCarolina_Towson",
+   "week": 2,
+   "away": "Towson",
+   "home": "South Carolina",
+   "picks": {
+    "Tyler": "South Carolina",
+    "Tatum": "South Carolina",
+    "Abigail": "South Carolina"
+   },
+   "winner": "South Carolina"
+  },
+  {
+   "key": "W02_OhioState_Texas",
+   "week": 2,
+   "away": "Ohio State",
+   "home": "Texas",
+   "picks": {
+    "Tyler": "Texas",
+    "Tatum": "Texas",
+    "Abigail": "Texas"
+   },
+   "winner": "Texas"
+  },
+  {
+   "key": "W02_Delaware_Vanderbilt",
+   "week": 2,
+   "away": "Delaware",
+   "home": "Vanderbilt",
+   "picks": {
+    "Tyler": "Vanderbilt",
+    "Tatum": "Vanderbilt",
+    "Abigail": "Vanderbilt"
+   },
+   "winner": "Vanderbilt"
+  },
+  {
+   "key": "W02_Howard_Indiana",
+   "week": 2,
+   "away": "Howard",
+   "home": "Indiana",
+   "picks": {
+    "Tyler": "Indiana",
+    "Tatum": "Indiana",
+    "Abigail": "Indiana"
+   },
+   "winner": "Indiana"
+  },
+  {
+   "key": "W02_Maryland_UConn",
+   "week": 2,
+   "away": "Maryland",
+   "home": "UConn",
+   "picks": {
+    "Tyler": "Maryland",
+    "Tatum": "UConn",
+    "Abigail": "Maryland"
+   },
+   "winner": "Maryland"
+  },
+  {
+   "key": "W02_EasternMichigan_MichiganState",
+   "week": 2,
+   "away": "Eastern Michigan",
+   "home": "Michigan State",
+   "picks": {
+    "Tyler": "Michigan State",
+    "Tatum": "Michigan State",
+    "Abigail": "Michigan State"
+   },
+   "winner": "Michigan State"
+  },
+  {
+   "key": "W02_BowlingGreen_Nebraska",
+   "week": 2,
+   "away": "Bowling Green",
+   "home": "Nebraska",
+   "picks": {
+    "Tyler": "Nebraska",
+    "Tatum": "Nebraska",
+    "Abigail": "Nebraska"
+   },
+   "winner": "Nebraska"
+  },
+  {
+   "key": "W02_PennState_Temple",
+   "week": 2,
+   "away": "Penn State",
+   "home": "Temple",
+   "picks": {
+    "Tyler": "Penn State",
+    "Tatum": "Penn State",
+    "Abigail": "Penn State"
+   },
+   "winner": "Penn State"
+  },
+  {
+   "key": "W02_SanDiegoState_UCLA",
+   "week": 2,
+   "away": "San Diego State",
+   "home": "UCLA",
+   "picks": {
+    "Tyler": "UCLA",
+    "Tatum": "UCLA",
+    "Abigail": "UCLA"
+   },
+   "winner": "UCLA"
+  },
+  {
+   "key": "W02_Louisiana_USC",
+   "week": 2,
+   "away": "Louisiana",
+   "home": "USC",
+   "picks": {
+    "Tyler": "USC",
+    "Tatum": "USC",
+    "Abigail": "USC"
+   },
+   "winner": "USC"
+  },
+  {
+   "key": "W02_UtahState_Washington",
+   "week": 2,
+   "away": "Utah State",
+   "home": "Washington",
+   "picks": {
+    "Tyler": "Washington",
+    "Tatum": "Washington",
+    "Abigail": "Washington"
+   },
+   "winner": "Washington"
+  },
+  {
+   "key": "W02_WesternMichigan_Wisconsin",
+   "week": 2,
+   "away": "Western Michigan",
+   "home": "Wisconsin",
+   "picks": {
+    "Tyler": "Wisconsin",
+    "Tatum": "Wisconsin",
+    "Abigail": "Wisconsin"
+   },
+   "winner": "Wisconsin"
+  },
+  {
+   "key": "W02_NotreDame_Rice",
+   "week": 2,
+   "away": "Rice",
+   "home": "Notre Dame",
+   "picks": {
+    "Tyler": "Notre Dame",
+    "Tatum": "Notre Dame",
+    "Abigail": "Notre Dame"
+   },
+   "winner": "Notre Dame"
+  },
+  {
+   "key": "W03_BostonCollege_Maine",
+   "week": 3,
+   "away": "Maine",
+   "home": "Boston College",
+   "picks": {
+    "Tyler": "Boston College",
+    "Tatum": "Boston College",
+    "Abigail": "Boston College"
+   },
+   "winner": "Boston College"
+  },
+  {
+   "key": "W03_California_Wagner",
+   "week": 3,
+   "away": "Wagner",
+   "home": "California",
+   "picks": {
+    "Tyler": "California",
+    "Tatum": "California",
+    "Abigail": "California"
+   },
+   "winner": "California"
+  },
+  {
+   "key": "W03_Clemson_NorthCarolina",
+   "week": 3,
+   "away": "North Carolina",
+   "home": "Clemson",
+   "picks": {
+    "Tyler": "Clemson",
+    "Tatum": "Clemson",
+    "Abigail": "Clemson"
+   },
+   "winner": "Clemson"
+  },
+  {
+   "key": "W03_Duke_Stanford",
+   "week": 3,
+   "away": "Stanford",
+   "home": "Duke",
+   "picks": {
+    "Tyler": "Duke",
+    "Tatum": "Duke",
+    "Abigail": "Duke"
+   },
+   "winner": "Duke"
+  },
+  {
+   "key": "W03_Alabama_FloridaState",
+   "week": 3,
+   "away": "Florida State",
+   "home": "Alabama",
+   "picks": {
+    "Tyler": "Alabama",
+    "Tatum": "Alabama",
+    "Abigail": "Alabama"
+   },
+   "winner": "Alabama"
+  },
+  {
+   "key": "W03_GeorgiaTech_Mercer",
+   "week": 3,
+   "away": "Mercer",
+   "home": "Georgia Tech",
+   "picks": {
+    "Tyler": "Georgia Tech",
+    "Tatum": "Georgia Tech",
+    "Abigail": "Georgia Tech"
+   },
+   "winner": "Georgia Tech"
+  },
+  {
+   "key": "W03_Louisville_SMU",
+   "week": 3,
+   "away": "SMU",
+   "home": "Louisville",
+   "picks": {
+    "Tyler": "SMU",
+    "Tatum": "SMU",
+    "Abigail": "SMU"
+   },
+   "winner": "Louisville"
+  },
+  {
+   "key": "W03_MiamiFL_WakeForest",
+   "week": 3,
+   "away": "Miami (FL)",
+   "home": "Wake Forest",
+   "picks": {
+    "Tyler": "Miami (FL)",
+    "Tatum": "Miami (FL)",
+    "Abigail": "Miami (FL)"
+   },
+   "winner": "Miami (FL)"
+  },
+  {
+   "key": "W03_NCState_Vanderbilt",
+   "week": 3,
+   "away": "NC State",
+   "home": "Vanderbilt",
+   "picks": {
+    "Tyler": "Vanderbilt",
+    "Tatum": "Vanderbilt",
+    "Abigail": "Vanderbilt"
+   },
+   "winner": "Vanderbilt"
+  },
+  {
+   "key": "W03_Pittsburgh_Syracuse",
+   "week": 3,
+   "away": "Syracuse",
+   "home": "Pittsburgh",
+   "picks": {
+    "Tyler": "Pittsburgh",
+    "Tatum": "Syracuse",
+    "Abigail": "Pittsburgh"
+   },
+   "winner": "Pittsburgh"
+  },
+  {
+   "key": "W03_Virginia_WestVirginia",
+   "week": 3,
+   "away": "West Virginia",
+   "home": "Virginia",
+   "picks": {
+    "Tyler": "Virginia",
+    "Tatum": "West Virginia",
+    "Abigail": "West Virginia"
+   },
+   "winner": "West Virginia"
+  },
+  {
+   "key": "W03_Maryland_VirginiaTech",
+   "week": 3,
+   "away": "Virginia Tech",
+   "home": "Maryland",
+   "picks": {
+    "Tyler": "Virginia Tech",
+    "Tatum": "Virginia Tech",
+    "Abigail": "Maryland"
+   },
+   "winner": "Virginia Tech"
+  },
+  {
+   "key": "W03_Arizona_NorthernIllinois",
+   "week": 3,
+   "away": "Northern Illinois",
+   "home": "Arizona",
+   "picks": {
+    "Tyler": "Arizona",
+    "Tatum": "Arizona",
+    "Abigail": "Arizona"
+   },
+   "winner": "Arizona"
+  },
+  {
+   "key": "W03_ArizonaState_Kansas",
+   "week": 3,
+   "away": "Kansas",
+   "home": "Arizona State",
+   "picks": {
+    "Tyler": "Arizona State",
+    "Tatum": "Arizona State",
+    "Abigail": "Arizona State"
+   },
+   "winner": "Arizona State"
+  },
+  {
+   "key": "W03_Baylor_LouisianaTech",
+   "week": 3,
+   "away": "Louisiana Tech",
+   "home": "Baylor",
+   "picks": {
+    "Tyler": "Baylor",
+    "Tatum": "Baylor",
+    "Abigail": "Baylor"
+   },
+   "winner": "Baylor"
+  },
+  {
+   "key": "W03_BYU_ColoradoState",
+   "week": 3,
+   "away": "BYU",
+   "home": "Colorado State",
+   "picks": {
+    "Tyler": "BYU",
+    "Tatum": "BYU",
+    "Abigail": "BYU"
+   },
+   "winner": "BYU"
+  },
+  {
+   "key": "W03_Cincinnati_MiamiOH",
+   "week": 3,
+   "away": "Miami (OH)",
+   "home": "Cincinnati",
+   "picks": {
+    "Tyler": "Cincinnati",
+    "Tatum": "Cincinnati",
+    "Abigail": "Cincinnati"
+   },
+   "winner": "Cincinnati"
+  },
+  {
+   "key": "W03_Colorado_Northwestern",
+   "week": 3,
+   "away": "Colorado",
+   "home": "Northwestern",
+   "picks": {
+    "Tyler": "Colorado",
+    "Tatum": "Colorado",
+    "Abigail": "Colorado"
+   },
+   "winner": "Northwestern"
+  },
+  {
+   "key": "W03_Houston_TexasTech",
+   "week": 3,
+   "away": "Houston",
+   "home": "Texas Tech",
+   "picks": {
+    "Tyler": "Texas Tech",
+    "Tatum": "Texas Tech",
+    "Abigail": "Texas Tech"
+   },
+   "winner": "Texas Tech"
+  },
+  {
+   "key": "W03_BowlingGreen_IowaState",
+   "week": 3,
+   "away": "Bowling Green",
+   "home": "Iowa State",
+   "picks": {
+    "Tyler": "Iowa State",
+    "Tatum": "Iowa State",
+    "Abigail": "Iowa State"
+   },
+   "winner": "Iowa State"
+  },
+  {
+   "key": "W03_KansasState_Tulane",
+   "week": 3,
+   "away": "Tulane",
+   "home": "Kansas State",
+   "picks": {
+    "Tyler": "Kansas State",
+    "Tatum": "Kansas State",
+    "Abigail": "Kansas State"
+   },
+   "winner": "Kansas State"
+  },
+  {
+   "key": "W03_MurrayState_OklahomaState",
+   "week": 3,
+   "away": "Murray State",
+   "home": "Oklahoma State",
+   "picks": {
+    "Tyler": "Oklahoma State",
+    "Tatum": "Oklahoma State",
+    "Abigail": "Oklahoma State"
+   },
+   "winner": "Oklahoma State"
+  },
+  {
+   "key": "W03_ArkansasState_TCU",
+   "week": 3,
+   "away": "Arkansas State",
+   "home": "TCU",
+   "picks": {
+    "Tyler": "TCU",
+    "Tatum": "TCU",
+    "Abigail": "TCU"
+   },
+   "winner": "TCU"
+  },
+  {
+   "key": "W03_NorthCarolinaAT_UCF",
+   "week": 3,
+   "away": "North Carolina A&T",
+   "home": "UCF",
+   "picks": {
+    "Tyler": "UCF",
+    "Tatum": "UCF",
+    "Abigail": "UCF"
+   },
+   "winner": "UCF"
+  },
+  {
+   "key": "W03_Utah_UtahState",
+   "week": 3,
+   "away": "Utah State",
+   "home": "Utah",
+   "picks": {
+    "Tyler": "Utah",
+    "Tatum": "Utah",
+    "Abigail": "Utah"
+   },
+   "winner": "Utah"
+  },
+  {
+   "key": "W03_Arkansas_Georgia",
+   "week": 3,
+   "away": "Georgia",
+   "home": "Arkansas",
+   "picks": {
+    "Tyler": "Georgia",
+    "Tatum": "Georgia",
+    "Abigail": "Georgia"
+   },
+   "winner": "Georgia"
+  },
+  {
+   "key": "W03_Auburn_Florida",
+   "week": 3,
+   "away": "Florida",
+   "home": "Auburn",
+   "picks": {
+    "Tyler": "Auburn",
+    "Tatum": "Florida",
+    "Abigail": "Florida"
+   },
+   "winner": "Florida"
+  },
+  {
+   "key": "W03_Kentucky_TexasAM",
+   "week": 3,
+   "away": "Kentucky",
+   "home": "Texas A&M",
+   "picks": {
+    "Tyler": "Texas A&M",
+    "Tatum": "Texas A&M",
+    "Abigail": "Texas A&M"
+   },
+   "winner": "Kentucky"
+  },
+  {
+   "key": "W03_LSU_OleMiss",
+   "week": 3,
+   "away": "LSU",
+   "home": "Ole Miss",
+   "picks": {
+    "Tyler": "Ole Miss",
+    "Tatum": "Ole Miss",
+    "Abigail": "LSU"
+   },
+   "winner": "Ole Miss"
+  },
+  {
+   "key": "W03_MississippiState_SouthCarolina",
+   "week": 3,
+   "away": "Mississippi State",
+   "home": "South Carolina",
+   "picks": {
+    "Tyler": "South Carolina",
+    "Tatum": "Mississippi State",
+    "Abigail": "South Carolina"
+   },
+   "winner": "Mississippi State"
+  },
+  {
+   "key": "W03_Missouri_Troy",
+   "week": 3,
+   "away": "Troy",
+   "home": "Missouri",
+   "picks": {
+    "Tyler": "Missouri",
+    "Tatum": "Troy",
+    "Abigail": "Missouri"
+   },
+   "winner": "Missouri"
+  },
+  {
+   "key": "W03_NewMexico_Oklahoma",
+   "week": 3,
+   "away": "New Mexico",
+   "home": "Oklahoma",
+   "picks": {
+    "Tyler": "Oklahoma",
+    "Tatum": "Oklahoma",
+    "Abigail": "Oklahoma"
+   },
+   "winner": "Oklahoma"
+  },
+  {
+   "key": "W03_KennesawState_Tennessee",
+   "week": 3,
+   "away": "Kennesaw State",
+   "home": "Tennessee",
+   "picks": {
+    "Tyler": "Tennessee",
+    "Tatum": "Tennessee",
+    "Abigail": "Tennessee"
+   },
+   "winner": "Tennessee"
+  },
+  {
+   "key": "W03_Texas_UTSA",
+   "week": 3,
+   "away": "UTSA",
+   "home": "Texas",
+   "picks": {
+    "Tyler": "Texas",
+    "Tatum": "Texas",
+    "Abigail": "Texas"
+   },
+   "winner": "Texas"
+  },
+  {
+   "key": "W03_Illinois_SouthernIllinois",
+   "week": 3,
+   "away": "Southern Illinois",
+   "home": "Illinois",
+   "picks": {
+    "Tyler": "Illinois",
+    "Tatum": "Illinois",
+    "Abigail": "Illinois"
+   },
+   "winner": "Illinois"
+  },
+  {
+   "key": "W03_Indiana_WesternKentucky",
+   "week": 3,
+   "away": "Western Kentucky",
+   "home": "Indiana",
+   "picks": {
+    "Tyler": "Indiana",
+    "Tatum": "Indiana",
+    "Abigail": "Indiana"
+   },
+   "winner": "Indiana"
+  },
+  {
+   "key": "W03_Iowa_NorthernIowa",
+   "week": 3,
+   "away": "Northern Iowa",
+   "home": "Iowa",
+   "picks": {
+    "Tyler": "Iowa",
+    "Tatum": "Iowa",
+    "Abigail": "Iowa"
+   },
+   "winner": "Iowa"
+  },
+  {
+   "key": "W03_Michigan_UTEP",
+   "week": 3,
+   "away": "UTEP",
+   "home": "Michigan",
+   "picks": {
+    "Tyler": "Michigan",
+    "Tatum": "Michigan",
+    "Abigail": "Michigan"
+   },
+   "winner": "Michigan"
+  },
+  {
+   "key": "W03_MichiganState_NotreDame",
+   "week": 3,
+   "away": "Michigan State",
+   "home": "Notre Dame",
+   "picks": {
+    "Tyler": "Notre Dame",
+    "Tatum": "Notre Dame",
+    "Abigail": "Notre Dame"
+   },
+   "winner": "Notre Dame"
+  },
+  {
+   "key": "W03_Akron_Minnesota",
+   "week": 3,
+   "away": "Akron",
+   "home": "Minnesota",
+   "picks": {
+    "Tyler": "Minnesota",
+    "Tatum": "Minnesota",
+    "Abigail": "Minnesota"
+   },
+   "winner": "Minnesota"
+  },
+  {
+   "key": "W03_Nebraska_NorthDakota",
+   "week": 3,
+   "away": "North Dakota",
+   "home": "Nebraska",
+   "picks": {
+    "Tyler": "Nebraska",
+    "Tatum": "Nebraska",
+    "Abigail": "Nebraska"
+   },
+   "winner": "Nebraska"
+  },
+  {
+   "key": "W03_KentState_OhioState",
+   "week": 3,
+   "away": "Kent State",
+   "home": "Ohio State",
+   "picks": {
+    "Tyler": "Ohio State",
+    "Tatum": "Ohio State",
+    "Abigail": "Ohio State"
+   },
+   "winner": "Ohio State"
+  },
+  {
+   "key": "W03_Oregon_PortlandState",
+   "week": 3,
+   "away": "Portland State",
+   "home": "Oregon",
+   "picks": {
+    "Tyler": "Oregon",
+    "Tatum": "Oregon",
+    "Abigail": "Oregon"
+   },
+   "winner": "Oregon"
+  },
+  {
+   "key": "W03_Buffalo_PennState",
+   "week": 3,
+   "away": "Buffalo",
+   "home": "Penn State",
+   "picks": {
+    "Tyler": "Penn State",
+    "Tatum": "Penn State",
+    "Abigail": "Penn State"
+   },
+   "winner": "Penn State"
+  },
+  {
+   "key": "W03_Purdue_UCLA",
+   "week": 3,
+   "away": "Purdue",
+   "home": "UCLA",
+   "picks": {
+    "Tyler": "UCLA",
+    "Tatum": "Purdue",
+    "Abigail": "UCLA"
+   },
+   "winner": "UCLA"
+  },
+  {
+   "key": "W03_Rutgers_USC",
+   "week": 3,
+   "away": "USC",
+   "home": "Rutgers",
+   "picks": {
+    "Tyler": "USC",
+    "Tatum": "USC",
+    "Abigail": "USC"
+   },
+   "winner": "USC"
+  },
+  {
+   "key": "W03_EasternWashington_Washington",
+   "week": 3,
+   "away": "Eastern Washington",
+   "home": "Washington",
+   "picks": {
+    "Tyler": "Washington",
+    "Tatum": "Washington",
+    "Abigail": "Washington"
+   },
+   "winner": "Washington"
+  },
+  {
+   "key": "W03_EasternMichigan_Wisconsin",
+   "week": 3,
+   "away": "Eastern Michigan",
+   "home": "Wisconsin",
+   "picks": {
+    "Tyler": "Wisconsin",
+    "Tatum": "Wisconsin",
+    "Abigail": "Wisconsin"
+   },
+   "winner": "Wisconsin"
+  },
+  {
+   "key": "W04_BostonCollege_VirginiaTech",
+   "week": 4,
+   "away": "Virginia Tech",
+   "home": "Boston College",
+   "picks": {
+    "Tyler": "Virginia Tech",
+    "Tatum": "Virginia Tech",
+    "Abigail": "Virginia Tech"
+   },
+   "winner": "Virginia Tech"
+  },
+  {
+   "key": "W04_California_Clemson",
+   "week": 4,
+   "away": "Clemson",
+   "home": "California",
+   "picks": {
+    "Tyler": "California",
+    "Tatum": "Clemson",
+    "Abigail": "Clemson"
+   },
+   "winner": "Clemson"
+  },
+  {
+   "key": "W04_Duke_WilliamMary",
+   "week": 4,
+   "away": "William & Mary",
+   "home": "Duke",
+   "picks": {
+    "Tyler": "Duke",
+    "Tatum": "Duke",
+    "Abigail": "Duke"
+   },
+   "winner": "Duke"
+  },
+  {
+   "key": "W04_CentralArkansas_FloridaState",
+   "week": 4,
+   "away": "Central Arkansas",
+   "home": "Florida State",
+   "picks": {
+    "Tyler": "Florida State",
+    "Tatum": "Florida State",
+    "Abigail": "Florida State"
+   },
+   "winner": "Florida State"
+  },
+  {
+   "key": "W04_GeorgiaTech_Stanford",
+   "week": 4,
+   "away": "Georgia Tech",
+   "home": "Stanford",
+   "picks": {
+    "Tyler": "Georgia Tech",
+    "Tatum": "Georgia Tech",
+    "Abigail": "Stanford"
+   },
+   "winner": "Stanford"
+  },
+  {
+   "key": "W04_Louisville_WakeForest",
+   "week": 4,
+   "away": "Wake Forest",
+   "home": "Louisville",
+   "picks": {
+    "Tyler": "Louisville",
+    "Tatum": "Louisville",
+    "Abigail": "Wake Forest"
+   },
+   "winner": "Wake Forest"
+  },
+  {
+   "key": "W04_CentralMichigan_MiamiFL",
+   "week": 4,
+   "away": "Central Michigan",
+   "home": "Miami (FL)",
+   "picks": {
+    "Tyler": "Miami (FL)",
+    "Tatum": "Miami (FL)",
+    "Abigail": "Miami (FL)"
+   },
+   "winner": "Miami (FL)"
+  },
+  {
+   "key": "W04_AppalachianState_NCState",
+   "week": 4,
+   "away": "Appalachian State",
+   "home": "NC State",
+   "picks": {
+    "Tyler": "Appalachian State",
+    "Tatum": "NC State",
+    "Abigail": "NC State"
+   },
+   "winner": "NC State"
+  },
+  {
+   "key": "W04_Bucknell_Pittsburgh",
+   "week": 4,
+   "away": "Bucknell",
+   "home": "Pittsburgh",
+   "picks": {
+    "Tyler": "Pittsburgh",
+    "Tatum": "Pittsburgh",
+    "Abigail": "Pittsburgh"
+   },
+   "winner": "Pittsburgh"
+  },
+  {
+   "key": "W04_MissouriState_SMU",
+   "week": 4,
+   "away": "Missouri State",
+   "home": "SMU",
+   "picks": {
+    "Tyler": "SMU",
+    "Tatum": "SMU",
+    "Abigail": "SMU"
+   },
+   "winner": "SMU"
+  },
+  {
+   "key": "W04_Delaware_Virginia",
+   "week": 4,
+   "away": "Delaware",
+   "home": "Virginia",
+   "picks": {
+    "Tyler": "Virginia",
+    "Tatum": "Virginia",
+    "Abigail": "Virginia"
+   },
+   "winner": "Virginia"
+  },
+  {
+   "key": "W04_Arizona_WashingtonState",
+   "week": 4,
+   "away": "Arizona",
+   "home": "Washington State",
+   "picks": {
+    "Tyler": "Arizona",
+    "Tatum": "Washington State",
+    "Abigail": "Washington State"
+   },
+   "winner": "Arizona"
+  },
+  {
+   "key": "W04_Baylor_Colorado",
+   "week": 4,
+   "away": "Colorado",
+   "home": "Baylor",
+   "picks": {
+    "Tyler": "Baylor",
+    "Tatum": "Colorado",
+    "Abigail": "Colorado"
+   },
+   "winner": "Baylor"
+  },
+  {
+   "key": "W04_Cincinnati_KansasState",
+   "week": 4,
+   "away": "Kansas State",
+   "home": "Cincinnati",
+   "picks": {
+    "Tyler": "Cincinnati",
+    "Tatum": "Kansas State",
+    "Abigail": "Kansas State"
+   },
+   "winner": "Cincinnati"
+  },
+  {
+   "key": "W04_GeorgiaSouthern_Houston",
+   "week": 4,
+   "away": "Houston",
+   "home": "Georgia Southern",
+   "picks": {
+    "Tyler": "Houston",
+    "Tatum": "Houston",
+    "Abigail": "Houston"
+   },
+   "winner": "Houston"
+  },
+  {
+   "key": "W04_IowaState_Utah",
+   "week": 4,
+   "away": "Utah",
+   "home": "Iowa State",
+   "picks": {
+    "Tyler": "Utah",
+    "Tatum": "Iowa State",
+    "Abigail": "Utah"
+   },
+   "winner": "Utah"
+  },
+  {
+   "key": "W04_OklahomaState_WestVirginia",
+   "week": 4,
+   "away": "Oklahoma State",
+   "home": "West Virginia",
+   "picks": {
+    "Tyler": "West Virginia",
+    "Tatum": "West Virginia",
+    "Abigail": "West Virginia"
+   },
+   "winner": "Oklahoma State"
+  },
+  {
+   "key": "W04_TCU_UCF",
+   "week": 4,
+   "away": "TCU",
+   "home": "UCF",
+   "picks": {
+    "Tyler": "TCU",
+    "Tatum": "TCU",
+    "Abigail": "UCF"
+   },
+   "winner": "UCF"
+  },
+  {
+   "key": "W04_SamHouston_TexasTech",
+   "week": 4,
+   "away": "Sam Houston",
+   "home": "Texas Tech",
+   "picks": {
+    "Tyler": "Texas Tech",
+    "Tatum": "Texas Tech",
+    "Abigail": "Texas Tech"
+   },
+   "winner": "Texas Tech"
+  },
+  {
+   "key": "W04_Alabama_SouthCarolina",
+   "week": 4,
+   "away": "South Carolina",
+   "home": "Alabama",
+   "picks": {
+    "Tyler": "Alabama",
+    "Tatum": "Alabama",
+    "Abigail": "Alabama"
+   },
+   "winner": "Alabama"
+  },
+  {
+   "key": "W04_Arkansas_Tulsa",
+   "week": 4,
+   "away": "Tulsa",
+   "home": "Arkansas",
+   "picks": {
+    "Tyler": "Arkansas",
+    "Tatum": "Arkansas",
+    "Abigail": "Arkansas"
+   },
+   "winner": "Arkansas"
+  },
+  {
+   "key": "W04_Auburn_Vanderbilt",
+   "week": 4,
+   "away": "Vanderbilt",
+   "home": "Auburn",
+   "picks": {
+    "Tyler": "Vanderbilt",
+    "Tatum": "Auburn",
+    "Abigail": "Vanderbilt"
+   },
+   "winner": "Auburn"
+  },
+  {
+   "key": "W04_Florida_OleMiss",
+   "week": 4,
+   "away": "Ole Miss",
+   "home": "Florida",
+   "picks": {
+    "Tyler": "Ole Miss",
+    "Tatum": "Ole Miss",
+    "Abigail": "Florida"
+   },
+   "winner": "Florida"
+  },
+  {
+   "key": "W04_Georgia_Oklahoma",
+   "week": 4,
+   "away": "Oklahoma",
+   "home": "Georgia",
+   "picks": {
+    "Tyler": "Georgia",
+    "Tatum": "Georgia",
+    "Abigail": "Oklahoma"
+   },
+   "winner": "Georgia"
+  },
+  {
+   "key": "W04_Kentucky_SouthAlabama",
+   "week": 4,
+   "away": "South Alabama",
+   "home": "Kentucky",
+   "picks": {
+    "Tyler": "Kentucky",
+    "Tatum": "Kentucky",
+    "Abigail": "Kentucky"
+   },
+   "winner": "Kentucky"
+  },
+  {
+   "key": "W04_LSU_TexasAM",
+   "week": 4,
+   "away": "Texas A&M",
+   "home": "LSU",
+   "picks": {
+    "Tyler": "Texas A&M",
+    "Tatum": "LSU",
+    "Abigail": "LSU"
+   },
+   "winner": "LSU"
+  },
+  {
+   "key": "W04_MississippiState_Missouri",
+   "week": 4,
+   "away": "Missouri",
+   "home": "Mississippi State",
+   "picks": {
+    "Tyler": "Missouri",
+    "Tatum": "Missouri",
+    "Abigail": "Mississippi State"
+   },
+   "winner": "Mississippi State"
+  },
+  {
+   "key": "W04_Tennessee_Texas",
+   "week": 4,
+   "away": "Texas",
+   "home": "Tennessee",
+   "picks": {
+    "Tyler": "Texas",
+    "Tatum": "Texas",
+    "Abigail": "Texas"
+   },
+   "winner": "Texas"
+  },
+  {
+   "key": "W04_Illinois_OhioState",
+   "week": 4,
+   "away": "Illinois",
+   "home": "Ohio State",
+   "picks": {
+    "Tyler": "Ohio State",
+    "Tatum": "Ohio State",
+    "Abigail": "Ohio State"
+   },
+   "winner": "Ohio State"
+  },
+  {
+   "key": "W04_Indiana_Northwestern",
+   "week": 4,
+   "away": "Northwestern",
+   "home": "Indiana",
+   "picks": {
+    "Tyler": "Indiana",
+    "Tatum": "Indiana",
+    "Abigail": "Indiana"
+   },
+   "winner": "Indiana"
+  },
+  {
+   "key": "W04_Iowa_Michigan",
+   "week": 4,
+   "away": "Iowa",
+   "home": "Michigan",
+   "picks": {
+    "Tyler": "Michigan",
+    "Tatum": "Michigan",
+    "Abigail": "Michigan"
+   },
+   "winner": "Iowa"
+  },
+  {
+   "key": "W04_Maryland_UCLA",
+   "week": 4,
+   "away": "UCLA",
+   "home": "Maryland",
+   "picks": {
+    "Tyler": "UCLA",
+    "Tatum": "UCLA",
+    "Abigail": "UCLA"
+   },
+   "winner": "UCLA"
+  },
+  {
+   "key": "W04_MichiganState_Nebraska",
+   "week": 4,
+   "away": "Nebraska",
+   "home": "Michigan State",
+   "picks": {
+    "Tyler": "Nebraska",
+    "Tatum": "Michigan State",
+    "Abigail": "Nebraska"
+   },
+   "winner": "Nebraska"
+  },
+  {
+   "key": "W04_Minnesota_Washington",
+   "week": 4,
+   "away": "Minnesota",
+   "home": "Washington",
+   "picks": {
+    "Tyler": "Washington",
+    "Tatum": "Washington",
+    "Abigail": "Washington"
+   },
+   "winner": "Minnesota"
+  },
+  {
+   "key": "W04_Oregon_USC",
+   "week": 4,
+   "away": "Oregon",
+   "home": "USC",
+   "picks": {
+    "Tyler": "Oregon",
+    "Tatum": "Oregon",
+    "Abigail": "Oregon"
+   },
+   "winner": "Oregon"
+  },
+  {
+   "key": "W04_PennState_Wisconsin",
+   "week": 4,
+   "away": "Wisconsin",
+   "home": "Penn State",
+   "picks": {
+    "Tyler": "Penn State",
+    "Tatum": "Penn State",
+    "Abigail": "Wisconsin"
+   },
+   "winner": "Wisconsin"
+  },
+  {
+   "key": "W04_NotreDame_Purdue",
+   "week": 4,
+   "away": "Notre Dame",
+   "home": "Purdue",
+   "picks": {
+    "Tyler": "Notre Dame",
+    "Tatum": "Notre Dame",
+    "Abigail": "Notre Dame"
+   },
+   "winner": "Notre Dame"
+  },
+  {
+   "key": "W04_Howard_Rutgers",
+   "week": 4,
+   "away": "Howard",
+   "home": "Rutgers",
+   "picks": {
+    "Tyler": "Rutgers",
+    "Tatum": "Rutgers",
+    "Abigail": "Rutgers"
+   },
+   "winner": "Rutgers"
+  },
+  {
+   "key": "W05_BostonCollege_SMU",
+   "week": 5,
+   "away": "Boston College",
+   "home": "SMU",
+   "picks": {
+    "Tyler": "SMU",
+    "Tatum": "SMU",
+    "Abigail": "SMU"
+   },
+   "winner": "SMU"
+  },
+  {
+   "key": "W05_California_UNLV",
+   "week": 5,
+   "away": "California",
+   "home": "UNLV",
+   "picks": {
+    "Tyler": "California",
+    "Tatum": "UNLV",
+    "Abigail": "UNLV"
+   },
+   "winner": "UNLV"
+  },
+  {
+   "key": "W05_Clemson_MiamiFL",
+   "week": 5,
+   "away": "Miami (FL)",
+   "home": "Clemson",
+   "picks": {
+    "Tyler": "Miami (FL)",
+    "Tatum": "Miami (FL)",
+    "Abigail": "Miami (FL)"
+   },
+   "winner": "Miami (FL)"
+  },
+  {
+   "key": "W05_FloridaState_Virginia",
+   "week": 5,
+   "away": "Virginia",
+   "home": "Florida State",
+   "picks": {
+    "Tyler": "Virginia",
+    "Tatum": "Florida State",
+    "Abigail": "Florida State"
+   },
+   "winner": "Florida State"
+  },
+  {
+   "key": "W05_Louisville_NCState",
+   "week": 5,
+   "away": "Louisville",
+   "home": "NC State",
+   "picks": {
+    "Tyler": "Louisville",
+    "Tatum": "Louisville",
+    "Abigail": "NC State"
+   },
+   "winner": "NC State"
+  },
+  {
+   "key": "W05_NorthCarolina_NotreDame",
+   "week": 5,
+   "away": "Notre Dame",
+   "home": "North Carolina",
+   "picks": {
+    "Tyler": "Notre Dame",
+    "Tatum": "Notre Dame",
+    "Abigail": "Notre Dame"
+   },
+   "winner": "Notre Dame"
+  },
+  {
+   "key": "W05_Pittsburgh_VirginiaTech",
+   "week": 5,
+   "away": "Pittsburgh",
+   "home": "Virginia Tech",
+   "picks": {
+    "Tyler": "Virginia Tech",
+    "Tatum": "Virginia Tech",
+    "Abigail": "Virginia Tech"
+   },
+   "winner": "Pittsburgh"
+  },
+  {
+   "key": "W05_Stanford_WakeForest",
+   "week": 5,
+   "away": "Stanford",
+   "home": "Wake Forest",
+   "picks": {
+    "Tyler": "Stanford",
+    "Tatum": "Stanford",
+    "Abigail": "Stanford"
+   },
+   "winner": "Wake Forest"
+  },
+  {
+   "key": "W05_Syracuse_UConn",
+   "week": 5,
+   "away": "Syracuse",
+   "home": "UConn",
+   "picks": {
+    "Tyler": "UConn",
+    "Tatum": "Syracuse",
+    "Abigail": "Syracuse"
+   },
+   "winner": "Syracuse"
+  },
+  {
+   "key": "W05_Arizona_Cincinnati",
+   "week": 5,
+   "away": "Cincinnati",
+   "home": "Arizona",
+   "picks": {
+    "Tyler": "Arizona",
+    "Tatum": "Cincinnati",
+    "Abigail": "Arizona"
+   },
+   "winner": "Arizona"
+  },
+  {
+   "key": "W05_ArizonaState_Baylor",
+   "week": 5,
+   "away": "Baylor",
+   "home": "Arizona State",
+   "picks": {
+    "Tyler": "Arizona State",
+    "Tatum": "Arizona State",
+    "Abigail": "Arizona State"
+   },
+   "winner": "Baylor"
+  },
+  {
+   "key": "W05_BYU_TCU",
+   "week": 5,
+   "away": "BYU",
+   "home": "TCU",
+   "picks": {
+    "Tyler": "BYU",
+    "Tatum": "BYU",
+    "Abigail": "TCU"
+   },
+   "winner": "BYU"
+  },
+  {
+   "key": "W05_Colorado_TexasTech",
+   "week": 5,
+   "away": "Texas Tech",
+   "home": "Colorado",
+   "picks": {
+    "Tyler": "Texas Tech",
+    "Tatum": "Texas Tech",
+    "Abigail": "Texas Tech"
+   },
+   "winner": "Texas Tech"
+  },
+  {
+   "key": "W05_Houston_UCF",
+   "week": 5,
+   "away": "UCF",
+   "home": "Houston",
+   "picks": {
+    "Tyler": "UCF",
+    "Tatum": "Houston",
+    "Abigail": "Houston"
+   },
+   "winner": "Houston"
+  },
+  {
+   "key": "W05_IowaState_WestVirginia",
+   "week": 5,
+   "away": "West Virginia",
+   "home": "Iowa State",
+   "picks": {
+    "Tyler": "West Virginia",
+    "Tatum": "Iowa State",
+    "Abigail": "West Virginia"
+   },
+   "winner": "Iowa State"
+  },
+  {
+   "key": "W05_Kansas_MiddleTennessee",
+   "week": 5,
+   "away": "Middle Tennessee",
+   "home": "Kansas",
+   "picks": {
+    "Tyler": "Kansas",
+    "Tatum": "Kansas",
+    "Abigail": "Kansas"
+   },
+   "winner": "Kansas"
+  },
+  {
+   "key": "W05_Alabama_MississippiState",
+   "week": 5,
+   "away": "Alabama",
+   "home": "Mississippi State",
+   "picks": {
+    "Tyler": "Alabama",
+    "Tatum": "Alabama",
+    "Abigail": "Mississippi State"
+   },
+   "winner": "Alabama"
+  },
+  {
+   "key": "W05_Arkansas_TexasAM",
+   "week": 5,
+   "away": "Arkansas",
+   "home": "Texas A&M",
+   "picks": {
+    "Tyler": "Texas A&M",
+    "Tatum": "Texas A&M",
+    "Abigail": "Texas A&M"
+   },
+   "winner": "Texas A&M"
+  },
+  {
+   "key": "W05_Auburn_Tennessee",
+   "week": 5,
+   "away": "Tennessee",
+   "home": "Auburn",
+   "picks": {
+    "Tyler": "Tennessee",
+    "Tatum": "Tennessee",
+    "Abigail": "Tennessee"
+   },
+   "winner": "Tennessee"
+  },
+  {
+   "key": "W05_Florida_Missouri",
+   "week": 5,
+   "away": "Florida",
+   "home": "Missouri",
+   "picks": {
+    "Tyler": "Missouri",
+    "Tatum": "Florida",
+    "Abigail": "Missouri"
+   },
+   "winner": "Missouri"
+  },
+  {
+   "key": "W05_Georgia_Vanderbilt",
+   "week": 5,
+   "away": "Vanderbilt",
+   "home": "Georgia",
+   "picks": {
+    "Tyler": "Georgia",
+    "Tatum": "Georgia",
+    "Abigail": "Georgia"
+   },
+   "winner": "Georgia"
+  },
+  {
+   "key": "W05_Kentucky_SouthCarolina",
+   "week": 5,
+   "away": "Kentucky",
+   "home": "South Carolina",
+   "picks": {
+    "Tyler": "South Carolina",
+    "Tatum": "South Carolina",
+    "Abigail": "South Carolina"
+   },
+   "winner": "Kentucky"
+  },
+  {
+   "key": "W05_LSU_McNeese",
+   "week": 5,
+   "away": "McNeese",
+   "home": "LSU",
+   "picks": {
+    "Tyler": "LSU",
+    "Tatum": "LSU",
+    "Abigail": "LSU"
+   },
+   "winner": "LSU"
+  },
+  {
+   "key": "W05_Illinois_Purdue",
+   "week": 5,
+   "away": "Purdue",
+   "home": "Illinois",
+   "picks": {
+    "Tyler": "Illinois",
+    "Tatum": "Illinois",
+    "Abigail": "Purdue"
+   },
+   "winner": "Purdue"
+  },
+  {
+   "key": "W05_Indiana_Rutgers",
+   "week": 5,
+   "away": "Indiana",
+   "home": "Rutgers",
+   "picks": {
+    "Tyler": "Indiana",
+    "Tatum": "Indiana",
+    "Abigail": "Indiana"
+   },
+   "winner": "Indiana"
+  },
+  {
+   "key": "W05_Iowa_OhioState",
+   "week": 5,
+   "away": "Ohio State",
+   "home": "Iowa",
+   "picks": {
+    "Tyler": "Ohio State",
+    "Tatum": "Ohio State",
+    "Abigail": "Ohio State"
+   },
+   "winner": "Ohio State"
+  },
+  {
+   "key": "W05_Maryland_Nebraska",
+   "week": 5,
+   "away": "Maryland",
+   "home": "Nebraska",
+   "picks": {
+    "Tyler": "Nebraska",
+    "Tatum": "Nebraska",
+    "Abigail": "Nebraska"
+   },
+   "winner": "Nebraska"
+  },
+  {
+   "key": "W05_Michigan_Minnesota",
+   "week": 5,
+   "away": "Michigan",
+   "home": "Minnesota",
+   "picks": {
+    "Tyler": "Michigan",
+    "Tatum": "Michigan",
+    "Abigail": "Michigan"
+   },
+   "winner": "Minnesota"
+  },
+  {
+   "key": "W05_MichiganState_Wisconsin",
+   "week": 5,
+   "away": "Michigan State",
+   "home": "Wisconsin",
+   "picks": {
+    "Tyler": "Wisconsin",
+    "Tatum": "Michigan State",
+    "Abigail": "Wisconsin"
+   },
+   "winner": "Wisconsin"
+  },
+  {
+   "key": "W05_Northwestern_PennState",
+   "week": 5,
+   "away": "Penn State",
+   "home": "Northwestern",
+   "picks": {
+    "Tyler": "Penn State",
+    "Tatum": "Penn State",
+    "Abigail": "Penn State"
+   },
+   "winner": "Northwestern"
+  },
+  {
+   "key": "W05_USC_Washington",
+   "week": 5,
+   "away": "Washington",
+   "home": "USC",
+   "picks": {
+    "Tyler": "Washington",
+    "Tatum": "Washington",
+    "Abigail": "Washington"
+   },
+   "winner": "USC"
+  },
+  {
+   "key": "W06_California_VirginiaTech",
+   "week": 6,
+   "away": "Virginia Tech",
+   "home": "California",
+   "picks": {
+    "Tyler": "California",
+    "Tatum": "Virginia Tech",
+    "Abigail": "California"
+   },
+   "winner": "Virginia Tech"
+  },
+  {
+   "key": "W06_Duke_GeorgiaTech",
+   "week": 6,
+   "away": "Duke",
+   "home": "Georgia Tech",
+   "picks": {
+    "Tyler": "Duke",
+    "Tatum": "Georgia Tech",
+    "Abigail": "Georgia Tech"
+   },
+   "winner": "Georgia Tech"
+  },
+  {
+   "key": "W06_FloridaState_Louisville",
+   "week": 6,
+   "away": "Florida State",
+   "home": "Louisville",
+   "picks": {
+    "Tyler": "Florida State",
+    "Tatum": "Florida State",
+    "Abigail": "Florida State"
+   },
+   "winner": "Louisville"
+  },
+  {
+   "key": "W06_NCState_WakeForest",
+   "week": 6,
+   "away": "Wake Forest",
+   "home": "NC State",
+   "picks": {
+    "Tyler": "NC State",
+    "Tatum": "NC State",
+    "Abigail": "Wake Forest"
+   },
+   "winner": "Wake Forest"
+  },
+  {
+   "key": "W06_NorthCarolina_Pittsburgh",
+   "week": 6,
+   "away": "North Carolina",
+   "home": "Pittsburgh",
+   "picks": {
+    "Tyler": "Pittsburgh",
+    "Tatum": "North Carolina",
+    "Abigail": "Pittsburgh"
+   },
+   "winner": "North Carolina"
+  },
+  {
+   "key": "W06_NotreDame_Stanford",
+   "week": 6,
+   "away": "Stanford",
+   "home": "Notre Dame",
+   "picks": {
+    "Tyler": "Notre Dame",
+    "Tatum": "Notre Dame",
+    "Abigail": "Notre Dame"
+   },
+   "winner": "Notre Dame"
+  },
+  {
+   "key": "W06_Syracuse_Virginia",
+   "week": 6,
+   "away": "Syracuse",
+   "home": "Virginia",
+   "picks": {
+    "Tyler": "Virginia",
+    "Tatum": "Virginia",
+    "Abigail": "Syracuse"
+   },
+   "winner": "Virginia"
+  },
+  {
+   "key": "W06_Arizona_WestVirginia",
+   "week": 6,
+   "away": "Arizona",
+   "home": "West Virginia",
+   "picks": {
+    "Tyler": "Arizona",
+    "Tatum": "Arizona",
+    "Abigail": "West Virginia"
+   },
+   "winner": "Arizona"
+  },
+  {
+   "key": "W06_ArizonaState_Hawaii",
+   "week": 6,
+   "away": "Hawaii",
+   "home": "Arizona State",
+   "picks": {
+    "Tyler": "Arizona State",
+    "Tatum": "Arizona State",
+    "Abigail": "Arizona State"
+   },
+   "winner": "Arizona State"
+  },
+  {
+   "key": "W06_BYU_IowaState",
+   "week": 6,
+   "away": "Iowa State",
+   "home": "BYU",
+   "picks": {
+    "Tyler": "BYU",
+    "Tatum": "BYU",
+    "Abigail": "BYU"
+   },
+   "winner": "BYU"
+  },
+  {
+   "key": "W06_Houston_KansasState",
+   "week": 6,
+   "away": "Houston",
+   "home": "Kansas State",
+   "picks": {
+    "Tyler": "Kansas State",
+    "Tatum": "Houston",
+    "Abigail": "Kansas State"
+   },
+   "winner": "Houston"
+  },
+  {
+   "key": "W06_Kansas_Utah",
+   "week": 6,
+   "away": "Kansas",
+   "home": "Utah",
+   "picks": {
+    "Tyler": "Utah",
+    "Tatum": "Utah",
+    "Abigail": "Utah"
+   },
+   "winner": "Utah"
+  },
+  {
+   "key": "W06_OklahomaState_UCF",
+   "week": 6,
+   "away": "UCF",
+   "home": "Oklahoma State",
+   "picks": {
+    "Tyler": "Oklahoma State",
+    "Tatum": "Oklahoma State",
+    "Abigail": "Oklahoma State"
+   },
+   "winner": "Oklahoma State"
+  },
+  {
+   "key": "W06_Alabama_Georgia",
+   "week": 6,
+   "away": "Georgia",
+   "home": "Alabama",
+   "picks": {
+    "Tyler": "Georgia",
+    "Tatum": "Georgia",
+    "Abigail": "Georgia"
+   },
+   "winner": "Georgia"
+  },
+  {
+   "key": "W06_Arkansas_Tennessee",
+   "week": 6,
+   "away": "Tennessee",
+   "home": "Arkansas",
+   "picks": {
+    "Tyler": "Tennessee",
+    "Tatum": "Tennessee",
+    "Abigail": "Arkansas"
+   },
+   "winner": "Tennessee"
+  },
+  {
+   "key": "W06_Florida_SouthCarolina",
+   "week": 6,
+   "away": "South Carolina",
+   "home": "Florida",
+   "picks": {
+    "Tyler": "Florida",
+    "Tatum": "Florida",
+    "Abigail": "Florida"
+   },
+   "winner": "South Carolina"
+  },
+  {
+   "key": "W06_Kentucky_LSU",
+   "week": 6,
+   "away": "LSU",
+   "home": "Kentucky",
+   "picks": {
+    "Tyler": "LSU",
+    "Tatum": "LSU",
+    "Abigail": "LSU"
+   },
+   "winner": "Kentucky"
+  },
+  {
+   "key": "W06_Missouri_TexasAM",
+   "week": 6,
+   "away": "Texas A&M",
+   "home": "Missouri",
+   "picks": {
+    "Tyler": "Texas A&M",
+    "Tatum": "Texas A&M",
+    "Abigail": "Texas A&M"
+   },
+   "winner": "Missouri"
+  },
+  {
+   "key": "W06_Oklahoma_Texas",
+   "week": 6,
+   "away": "Texas",
+   "home": "Oklahoma",
+   "picks": {
+    "Tyler": "Texas",
+    "Tatum": "Oklahoma",
+    "Abigail": "Texas"
+   },
+   "winner": "Oklahoma"
+  },
+  {
+   "key": "W06_OleMiss_Vanderbilt",
+   "week": 6,
+   "away": "Ole Miss",
+   "home": "Vanderbilt",
+   "picks": {
+    "Tyler": "Ole Miss",
+    "Tatum": "Ole Miss",
+    "Abigail": "Vanderbilt"
+   },
+   "winner": "Ole Miss"
+  },
+  {
+   "key": "W06_Illinois_MichiganState",
+   "week": 6,
+   "away": "Illinois",
+   "home": "Michigan State",
+   "picks": {
+    "Tyler": "Illinois",
+    "Tatum": "Michigan State",
+    "Abigail": "Michigan State"
+   },
+   "winner": "Illinois"
+  },
+  {
+   "key": "W06_Indiana_Nebraska",
+   "week": 6,
+   "away": "Indiana",
+   "home": "Nebraska",
+   "picks": {
+    "Tyler": "Indiana",
+    "Tatum": "Indiana",
+    "Abigail": "Indiana"
+   },
+   "winner": "Indiana"
+  },
+  {
+   "key": "W06_Iowa_Washington",
+   "week": 6,
+   "away": "Iowa",
+   "home": "Washington",
+   "picks": {
+    "Tyler": "Washington",
+    "Tatum": "Washington",
+    "Abigail": "Washington"
+   },
+   "winner": "Iowa"
+  },
+  {
+   "key": "W06_Maryland_OhioState",
+   "week": 6,
+   "away": "Maryland",
+   "home": "Ohio State",
+   "picks": {
+    "Tyler": "Ohio State",
+    "Tatum": "Ohio State",
+    "Abigail": "Ohio State"
+   },
+   "winner": "Ohio State"
+  },
+  {
+   "key": "W06_Minnesota_Purdue",
+   "week": 6,
+   "away": "Minnesota",
+   "home": "Purdue",
+   "picks": {
+    "Tyler": "Minnesota",
+    "Tatum": "Purdue",
+    "Abigail": "Minnesota"
+   },
+   "winner": "Purdue"
+  },
+  {
+   "key": "W06_BallState_Northwestern",
+   "week": 6,
+   "away": "Ball State",
+   "home": "Northwestern",
+   "picks": {
+    "Tyler": "Northwestern",
+    "Tatum": "Northwestern",
+    "Abigail": "Northwestern"
+   },
+   "winner": "Northwestern"
+  },
+  {
+   "key": "W06_Oregon_UCLA",
+   "week": 6,
+   "away": "UCLA",
+   "home": "Oregon",
+   "picks": {
+    "Tyler": "Oregon",
+    "Tatum": "Oregon",
+    "Abigail": "Oregon"
+   },
+   "winner": "UCLA"
+  },
+  {
+   "key": "W06_PennState_USC",
+   "week": 6,
+   "away": "USC",
+   "home": "Penn State",
+   "picks": {
+    "Tyler": "Penn State",
+    "Tatum": "USC",
+    "Abigail": "Penn State"
+   },
+   "winner": "USC"
+  },
+  {
+   "key": "W07_BostonCollege_Pittsburgh",
+   "week": 7,
+   "away": "Pittsburgh",
+   "home": "Boston College",
+   "picks": {
+    "Tyler": "Boston College",
+    "Tatum": "Boston College",
+    "Abigail": "Pittsburgh"
+   },
+   "winner": "Boston College"
+  },
+  {
+   "key": "W07_California_WakeForest",
+   "week": 7,
+   "away": "Wake Forest",
+   "home": "California",
+   "picks": {
+    "Tyler": "California",
+    "Tatum": "California",
+    "Abigail": "Wake Forest"
+   },
+   "winner": "Wake Forest"
+  },
+  {
+   "key": "W07_CharlestonSouthern_Clemson",
+   "week": 7,
+   "away": "Charleston Southern",
+   "home": "Clemson",
+   "picks": {
+    "Tyler": "Clemson",
+    "Tatum": "Clemson",
+    "Abigail": "Clemson"
+   },
+   "winner": "Clemson"
+  },
+  {
+   "key": "W07_Duke_NorthCarolina",
+   "week": 7,
+   "away": "North Carolina",
+   "home": "Duke",
+   "picks": {
+    "Tyler": "Duke",
+    "Tatum": "Duke",
+    "Abigail": "Duke"
+   },
+   "winner": "North Carolina"
+  },
+  {
+   "key": "W07_FloridaState_MiamiFL",
+   "week": 7,
+   "away": "Florida State",
+   "home": "Miami (FL)",
+   "picks": {
+    "Tyler": "Miami (FL)",
+    "Tatum": "Florida State",
+    "Abigail": "Miami (FL)"
+   },
+   "winner": "Miami (FL)"
+  },
+  {
+   "key": "W07_GeorgiaTech_VirginiaTech",
+   "week": 7,
+   "away": "Georgia Tech",
+   "home": "Virginia Tech",
+   "picks": {
+    "Tyler": "Virginia Tech",
+    "Tatum": "Georgia Tech",
+    "Abigail": "Virginia Tech"
+   },
+   "winner": "Virginia Tech"
+  },
+  {
+   "key": "W07_Louisville_Syracuse",
+   "week": 7,
+   "away": "Louisville",
+   "home": "Syracuse",
+   "picks": {
+    "Tyler": "Louisville",
+    "Tatum": "Louisville",
+    "Abigail": "Syracuse"
+   },
+   "winner": "Louisville"
+  },
+  {
+   "key": "W07_SMU_Virginia",
+   "week": 7,
+   "away": "Virginia",
+   "home": "SMU",
+   "picks": {
+    "Tyler": "SMU",
+    "Tatum": "SMU",
+    "Abigail": "SMU"
+   },
+   "winner": "SMU"
+  },
+  {
+   "key": "W07_Elon_Stanford",
+   "week": 7,
+   "away": "Elon",
+   "home": "Stanford",
+   "picks": {
+    "Tyler": "Stanford",
+    "Tatum": "Stanford",
+    "Abigail": "Stanford"
+   },
+   "winner": "Stanford"
+  },
+  {
+   "key": "W07_ArizonaState_TexasTech",
+   "week": 7,
+   "away": "Arizona State",
+   "home": "Texas Tech",
+   "picks": {
+    "Tyler": "Texas Tech",
+    "Tatum": "Texas Tech",
+    "Abigail": "Texas Tech"
+   },
+   "winner": "Texas Tech"
+  },
+  {
+   "key": "W07_Baylor_TCU",
+   "week": 7,
+   "away": "TCU",
+   "home": "Baylor",
+   "picks": {
+    "Tyler": "Baylor",
+    "Tatum": "TCU",
+    "Abigail": "Baylor"
+   },
+   "winner": "TCU"
+  },
+  {
+   "key": "W07_BYU_NotreDame",
+   "week": 7,
+   "away": "Notre Dame",
+   "home": "BYU",
+   "picks": {
+    "Tyler": "BYU",
+    "Tatum": "Notre Dame",
+    "Abigail": "Notre Dame"
+   },
+   "winner": "BYU"
+  },
+  {
+   "key": "W07_Cincinnati_WestVirginia",
+   "week": 7,
+   "away": "Cincinnati",
+   "home": "West Virginia",
+   "picks": {
+    "Tyler": "West Virginia",
+    "Tatum": "Cincinnati",
+    "Abigail": "West Virginia"
+   },
+   "winner": "West Virginia"
+  },
+  {
+   "key": "W07_Colorado_Utah",
+   "week": 7,
+   "away": "Utah",
+   "home": "Colorado",
+   "picks": {
+    "Tyler": "Utah",
+    "Tatum": "Utah",
+    "Abigail": "Utah"
+   },
+   "winner": "Utah"
+  },
+  {
+   "key": "W07_Houston_OklahomaState",
+   "week": 7,
+   "away": "Oklahoma State",
+   "home": "Houston",
+   "picks": {
+    "Tyler": "Oklahoma State",
+    "Tatum": "Oklahoma State",
+    "Abigail": "Oklahoma State"
+   },
+   "winner": "Houston"
+  },
+  {
+   "key": "W07_Kansas_KansasState",
+   "week": 7,
+   "away": "Kansas",
+   "home": "Kansas State",
+   "picks": {
+    "Tyler": "Kansas State",
+    "Tatum": "Kansas State",
+    "Abigail": "Kansas State"
+   },
+   "winner": "Kansas State"
+  },
+  {
+   "key": "W07_Alabama_Tennessee",
+   "week": 7,
+   "away": "Alabama",
+   "home": "Tennessee",
+   "picks": {
+    "Tyler": "Alabama",
+    "Tatum": "Alabama",
+    "Abigail": "Tennessee"
+   },
+   "winner": "Tennessee"
+  },
+  {
+   "key": "W07_Arkansas_Vanderbilt",
+   "week": 7,
+   "away": "Arkansas",
+   "home": "Vanderbilt",
+   "picks": {
+    "Tyler": "Arkansas",
+    "Tatum": "Vanderbilt",
+    "Abigail": "Vanderbilt"
+   },
+   "winner": "Arkansas"
+  },
+  {
+   "key": "W07_Auburn_Georgia",
+   "week": 7,
+   "away": "Auburn",
+   "home": "Georgia",
+   "picks": {
+    "Tyler": "Georgia",
+    "Tatum": "Georgia",
+    "Abigail": "Georgia"
+   },
+   "winner": "Auburn"
+  },
+  {
+   "key": "W07_Florida_Texas",
+   "week": 7,
+   "away": "Florida",
+   "home": "Texas",
+   "picks": {
+    "Tyler": "Texas",
+    "Tatum": "Texas",
+    "Abigail": "Texas"
+   },
+   "winner": "Florida"
+  },
+  {
+   "key": "W07_Kentucky_Oklahoma",
+   "week": 7,
+   "away": "Kentucky",
+   "home": "Oklahoma",
+   "picks": {
+    "Tyler": "Oklahoma",
+    "Tatum": "Oklahoma",
+    "Abigail": "Oklahoma"
+   },
+   "winner": "Kentucky"
+  },
+  {
+   "key": "W07_LSU_MississippiState",
+   "week": 7,
+   "away": "Mississippi State",
+   "home": "LSU",
+   "picks": {
+    "Tyler": "LSU",
+    "Tatum": "LSU",
+    "Abigail": "LSU"
+   },
+   "winner": "LSU"
+  },
+  {
+   "key": "W07_Missouri_OleMiss",
+   "week": 7,
+   "away": "Missouri",
+   "home": "Ole Miss",
+   "picks": {
+    "Tyler": "Ole Miss",
+    "Tatum": "Ole Miss",
+    "Abigail": "Ole Miss"
+   },
+   "winner": "Ole Miss"
+  },
+  {
+   "key": "W07_TexasAM_TheCitadel",
+   "week": 7,
+   "away": "The Citadel",
+   "home": "Texas A&M",
+   "picks": {
+    "Tyler": "Texas A&M",
+    "Tatum": "Texas A&M",
+    "Abigail": "Texas A&M"
+   },
+   "winner": "Texas A&M"
+  },
+  {
+   "key": "W07_Indiana_OhioState",
+   "week": 7,
+   "away": "Ohio State",
+   "home": "Indiana",
+   "picks": {
+    "Tyler": "Indiana",
+    "Tatum": "Indiana",
+    "Abigail": "Ohio State"
+   },
+   "winner": "Ohio State"
+  },
+  {
+   "key": "W07_Maryland_Rutgers",
+   "week": 7,
+   "away": "Rutgers",
+   "home": "Maryland",
+   "picks": {
+    "Tyler": "Maryland",
+    "Tatum": "Rutgers",
+    "Abigail": "Maryland"
+   },
+   "winner": "Rutgers"
+  },
+  {
+   "key": "W07_Michigan_PennState",
+   "week": 7,
+   "away": "Penn State",
+   "home": "Michigan",
+   "picks": {
+    "Tyler": "Michigan",
+    "Tatum": "Penn State",
+    "Abigail": "Michigan"
+   },
+   "winner": "Michigan"
+  },
+  {
+   "key": "W07_MichiganState_Northwestern",
+   "week": 7,
+   "away": "Northwestern",
+   "home": "Michigan State",
+   "picks": {
+    "Tyler": "Michigan State",
+    "Tatum": "Michigan State",
+    "Abigail": "Northwestern"
+   },
+   "winner": "Northwestern"
+  },
+  {
+   "key": "W07_Nebraska_Oregon",
+   "week": 7,
+   "away": "Nebraska",
+   "home": "Oregon",
+   "picks": {
+    "Tyler": "Oregon",
+    "Tatum": "Oregon",
+    "Abigail": "Oregon"
+   },
+   "winner": "Oregon"
+  },
+  {
+   "key": "W07_Purdue_Washington",
+   "week": 7,
+   "away": "Washington",
+   "home": "Purdue",
+   "picks": {
+    "Tyler": "Washington",
+    "Tatum": "Washington",
+    "Abigail": "Washington"
+   },
+   "winner": "Washington"
+  },
+  {
+   "key": "W07_UCLA_Wisconsin",
+   "week": 7,
+   "away": "Wisconsin",
+   "home": "UCLA",
+   "picks": {
+    "Tyler": "UCLA",
+    "Tatum": "Wisconsin",
+    "Abigail": "UCLA"
+   },
+   "winner": "UCLA"
+  },
+  {
+   "key": "W08_BostonCollege_GeorgiaTech",
+   "week": 8,
+   "away": "Boston College",
+   "home": "Georgia Tech",
+   "picks": {
+    "Tyler": "Georgia Tech",
+    "Tatum": "Georgia Tech",
+    "Abigail": "Georgia Tech"
+   },
+   "winner": "Boston College"
+  },
+  {
+   "key": "W08_California_SMU",
+   "week": 8,
+   "away": "California",
+   "home": "SMU",
+   "picks": {
+    "Tyler": "SMU",
+    "Tatum": "SMU",
+    "Abigail": "SMU"
+   },
+   "winner": "SMU"
+  },
+  {
+   "key": "W08_Clemson_VirginiaTech",
+   "week": 8,
+   "away": "Virginia Tech",
+   "home": "Clemson",
+   "picks": {
+    "Tyler": "Virginia Tech",
+    "Tatum": "Clemson",
+    "Abigail": "Virginia Tech"
+   },
+   "winner": "Virginia Tech"
+  },
+  {
+   "key": "W08_Duke_Virginia",
+   "week": 8,
+   "away": "Duke",
+   "home": "Virginia",
+   "picks": {
+    "Tyler": "Virginia",
+    "Tatum": "Duke",
+    "Abigail": "Virginia"
+   },
+   "winner": "Duke"
+  },
+  {
+   "key": "W08_MiamiFL_Pittsburgh",
+   "week": 8,
+   "away": "Pittsburgh",
+   "home": "Miami (FL)",
+   "picks": {
+    "Tyler": "Miami (FL)",
+    "Tatum": "Miami (FL)",
+    "Abigail": "Miami (FL)"
+   },
+   "winner": "Miami (FL)"
+  },
+  {
+   "key": "W08_NCState_Stanford",
+   "week": 8,
+   "away": "NC State",
+   "home": "Stanford",
+   "picks": {
+    "Tyler": "NC State",
+    "Tatum": "NC State",
+    "Abigail": "Stanford"
+   },
+   "winner": "Stanford"
+  },
+  {
+   "key": "W08_NorthCarolina_Syracuse",
+   "week": 8,
+   "away": "Syracuse",
+   "home": "North Carolina",
+   "picks": {
+    "Tyler": "Syracuse",
+    "Tatum": "North Carolina",
+    "Abigail": "North Carolina"
+   },
+   "winner": "Syracuse"
+  },
+  {
+   "key": "W08_Arizona_IowaState",
+   "week": 8,
+   "away": "Iowa State",
+   "home": "Arizona",
+   "picks": {
+    "Tyler": "Arizona",
+    "Tatum": "Iowa State",
+    "Abigail": "Arizona"
+   },
+   "winner": "Arizona"
+  },
+  {
+   "key": "W08_ArizonaState_KansasState",
+   "week": 8,
+   "away": "Kansas State",
+   "home": "Arizona State",
+   "picks": {
+    "Tyler": "Arizona State",
+    "Tatum": "Arizona State",
+    "Abigail": "Kansas State"
+   },
+   "winner": "Arizona State"
+  },
+  {
+   "key": "W08_Baylor_Kansas",
+   "week": 8,
+   "away": "Baylor",
+   "home": "Kansas",
+   "picks": {
+    "Tyler": "Kansas",
+    "Tatum": "Baylor",
+    "Abigail": "Kansas"
+   },
+   "winner": "Kansas"
+  },
+  {
+   "key": "W08_BYU_UCF",
+   "week": 8,
+   "away": "BYU",
+   "home": "UCF",
+   "picks": {
+    "Tyler": "BYU",
+    "Tatum": "BYU",
+    "Abigail": "BYU"
+   },
+   "winner": "UCF"
+  },
+  {
+   "key": "W08_Cincinnati_TexasTech",
+   "week": 8,
+   "away": "Texas Tech",
+   "home": "Cincinnati",
+   "picks": {
+    "Tyler": "Texas Tech",
+    "Tatum": "Texas Tech",
+    "Abigail": "Texas Tech"
+   },
+   "winner": "Cincinnati"
+  },
+  {
+   "key": "W08_Colorado_OklahomaState",
+   "week": 8,
+   "away": "Colorado",
+   "home": "Oklahoma State",
+   "picks": {
+    "Tyler": "Oklahoma State",
+    "Tatum": "Oklahoma State",
+    "Abigail": "Oklahoma State"
+   },
+   "winner": "Oklahoma State"
+  },
+  {
+   "key": "W08_Houston_Utah",
+   "week": 8,
+   "away": "Houston",
+   "home": "Utah",
+   "picks": {
+    "Tyler": "Utah",
+    "Tatum": "Utah",
+    "Abigail": "Utah"
+   },
+   "winner": "Utah"
+  },
+  {
+   "key": "W08_TCU_WestVirginia",
+   "week": 8,
+   "away": "West Virginia",
+   "home": "TCU",
+   "picks": {
+    "Tyler": "TCU",
+    "Tatum": "TCU",
+    "Abigail": "TCU"
+   },
+   "winner": "West Virginia"
+  },
+  {
+   "key": "W08_Alabama_TexasAM",
+   "week": 8,
+   "away": "Texas A&M",
+   "home": "Alabama",
+   "picks": {
+    "Tyler": "Texas A&M",
+    "Tatum": "Texas A&M",
+    "Abigail": "Texas A&M"
+   },
+   "winner": "Alabama"
+  },
+  {
+   "key": "W08_Auburn_LSU",
+   "week": 8,
+   "away": "LSU",
+   "home": "Auburn",
+   "picks": {
+    "Tyler": "LSU",
+    "Tatum": "LSU",
+    "Abigail": "LSU"
+   },
+   "winner": "LSU"
+  },
+  {
+   "key": "W08_Kentucky_Vanderbilt",
+   "week": 8,
+   "away": "Vanderbilt",
+   "home": "Kentucky",
+   "picks": {
+    "Tyler": "Vanderbilt",
+    "Tatum": "Vanderbilt",
+    "Abigail": "Kentucky"
+   },
+   "winner": "Kentucky"
+  },
+  {
+   "key": "W08_MississippiState_Oklahoma",
+   "week": 8,
+   "away": "Oklahoma",
+   "home": "Mississippi State",
+   "picks": {
+    "Tyler": "Oklahoma",
+    "Tatum": "Mississippi State",
+    "Abigail": "Oklahoma"
+   },
+   "winner": "Oklahoma"
+  },
+  {
+   "key": "W08_OleMiss_Texas",
+   "week": 8,
+   "away": "Ole Miss",
+   "home": "Texas",
+   "picks": {
+    "Tyler": "Texas",
+    "Tatum": "Texas",
+    "Abigail": "Texas"
+   },
+   "winner": "Texas"
+  },
+  {
+   "key": "W08_SouthCarolina_Tennessee",
+   "week": 8,
+   "away": "Tennessee",
+   "home": "South Carolina",
+   "picks": {
+    "Tyler": "Tennessee",
+    "Tatum": "Tennessee",
+    "Abigail": "Tennessee"
+   },
+   "winner": "South Carolina"
+  },
+  {
+   "key": "W08_Illinois_Oregon",
+   "week": 8,
+   "away": "Oregon",
+   "home": "Illinois",
+   "picks": {
+    "Tyler": "Oregon",
+    "Tatum": "Oregon",
+    "Abigail": "Oregon"
+   },
+   "winner": "Illinois"
+  },
+  {
+   "key": "W08_Indiana_Michigan",
+   "week": 8,
+   "away": "Indiana",
+   "home": "Michigan",
+   "picks": {
+    "Tyler": "Michigan",
+    "Tatum": "Michigan",
+    "Abigail": "Indiana"
+   },
+   "winner": "Indiana"
+  },
+  {
+   "key": "W08_Iowa_Minnesota",
+   "week": 8,
+   "away": "Iowa",
+   "home": "Minnesota",
+   "picks": {
+    "Tyler": "Minnesota",
+    "Tatum": "Iowa",
+    "Abigail": "Minnesota"
+   },
+   "winner": "Minnesota"
+  },
+  {
+   "key": "W08_MichiganState_UCLA",
+   "week": 8,
+   "away": "Michigan State",
+   "home": "UCLA",
+   "picks": {
+    "Tyler": "UCLA",
+    "Tatum": "Michigan State",
+    "Abigail": "UCLA"
+   },
+   "winner": "UCLA"
+  },
+  {
+   "key": "W08_Northwestern_Rutgers",
+   "week": 8,
+   "away": "Rutgers",
+   "home": "Northwestern",
+   "picks": {
+    "Tyler": "Rutgers",
+    "Tatum": "Northwestern",
+    "Abigail": "Northwestern"
+   },
+   "winner": "Northwestern"
+  },
+  {
+   "key": "W08_USC_Wisconsin",
+   "week": 8,
+   "away": "USC",
+   "home": "Wisconsin",
+   "picks": {
+    "Tyler": "USC",
+    "Tatum": "Wisconsin",
+    "Abigail": "USC"
+   },
+   "winner": "Wisconsin"
+  },
+  {
+   "key": "W09_BostonCollege_Duke",
+   "week": 9,
+   "away": "Boston College",
+   "home": "Duke",
+   "picks": {
+    "Tyler": "Duke",
+    "Tatum": "Duke",
+    "Abigail": "Duke"
+   },
+   "winner": null
+  },
+  {
+   "key": "W09_California_NCState",
+   "week": 9,
+   "away": "California",
+   "home": "NC State",
+   "picks": {
+    "Tyler": "California",
+    "Tatum": "NC State",
+    "Abigail": "NC State"
+   },
+   "winner": null
+  },
+  {
+   "key": "W09_Clemson_FloridaState",
+   "week": 9,
+   "away": "Clemson",
+   "home": "Florida State",
+   "picks": {
+    "Tyler": "Florida State",
+    "Tatum": "Florida State",
+    "Abigail": "Clemson"
+   },
+   "winner": null
+  },
+  {
+   "key": "W09_GeorgiaTech_Pittsburgh",
+   "week": 9,
+   "away": "Georgia Tech",
+   "home": "Pittsburgh",
+   "picks": {
+    "Tyler": "Pittsburgh",
+    "Tatum": "Georgia Tech",
+    "Abigail": "Pittsburgh"
+   },
+   "winner": null
+  },
+  {
+   "key": "W09_Louisville_Stanford",
+   "week": 9,
+   "away": "Stanford",
+   "home": "Louisville",
+   "picks": {
+    "Tyler": "Louisville",
+    "Tatum": "Louisville",
+    "Abigail": "Stanford"
+   },
+   "winner": null
+  },
+  {
+   "key": "W09_MiamiFL_NorthCarolina",
+   "week": 9,
+   "away": "Miami (FL)",
+   "home": "North Carolina",
+   "picks": {
+    "Tyler": "Miami (FL)",
+    "Tatum": "Miami (FL)",
+    "Abigail": "Miami (FL)"
+   },
+   "winner": null
+  },
+  {
+   "key": "W09_SMU_Syracuse",
+   "week": 9,
+   "away": "SMU",
+   "home": "Syracuse",
+   "picks": {
+    "Tyler": "SMU",
+    "Tatum": "SMU",
+    "Abigail": "Syracuse"
+   },
+   "winner": null
+  },
+  {
+   "key": "W09_Virginia_WakeForest",
+   "week": 9,
+   "away": "Virginia",
+   "home": "Wake Forest",
+   "picks": {
+    "Tyler": "Virginia",
+    "Tatum": "Virginia",
+    "Abigail": "Virginia"
+   },
+   "winner": null
+  },
+  {
+   "key": "W09_Arizona_TexasTech",
+   "week": 9,
+   "away": "Arizona",
+   "home": "Texas Tech",
+   "picks": {
+    "Tyler": "Texas Tech",
+    "Tatum": "Texas Tech",
+    "Abigail": "Texas Tech"
+   },
+   "winner": null
+  },
+  {
+   "key": "W09_ArizonaState_BYU",
+   "week": 9,
+   "away": "Arizona State",
+   "home": "BYU",
+   "picks": {
+    "Tyler": "BYU",
+    "Tatum": "BYU",
+    "Abigail": "BYU"
+   },
+   "winner": null
+  },
+  {
+   "key": "W09_Baylor_UCF",
+   "week": 9,
+   "away": "Baylor",
+   "home": "UCF",
+   "picks": {
+    "Tyler": "Baylor",
+    "Tatum": "Baylor",
+    "Abigail": "UCF"
+   },
+   "winner": null
+  },
+  {
+   "key": "W09_Cincinnati_Utah",
+   "week": 9,
+   "away": "Utah",
+   "home": "Cincinnati",
+   "picks": {
+    "Tyler": "Utah",
+    "Tatum": "Utah",
+    "Abigail": "Utah"
+   },
+   "winner": null
+  },
+  {
+   "key": "W09_Colorado_KansasState",
+   "week": 9,
+   "away": "Kansas State",
+   "home": "Colorado",
+   "picks": {
+    "Tyler": "Kansas State",
+    "Tatum": "Kansas State",
+    "Abigail": "Colorado"
+   },
+   "winner": null
+  },
+  {
+   "key": "W09_IowaState_OklahomaState",
+   "week": 9,
+   "away": "Oklahoma State",
+   "home": "Iowa State",
+   "picks": {
+    "Tyler": "Iowa State",
+    "Tatum": "Iowa State",
+    "Abigail": "Iowa State"
+   },
+   "winner": null
+  },
+  {
+   "key": "W09_Kansas_TCU",
+   "week": 9,
+   "away": "Kansas",
+   "home": "TCU",
+   "picks": {
+    "Tyler": "Kansas",
+    "Tatum": "TCU",
+    "Abigail": "TCU"
+   },
+   "winner": null
+  },
+  {
+   "key": "W09_Arkansas_Missouri",
+   "week": 9,
+   "away": "Missouri",
+   "home": "Arkansas",
+   "picks": {
+    "Tyler": "Arkansas",
+    "Tatum": "Missouri",
+    "Abigail": "Arkansas"
+   },
+   "winner": null
+  },
+  {
+   "key": "W09_Auburn_OleMiss",
+   "week": 9,
+   "away": "Auburn",
+   "home": "Ole Miss",
+   "picks": {
+    "Tyler": "Ole Miss",
+    "Tatum": "Ole Miss",
+    "Abigail": "Ole Miss"
+   },
+   "winner": null
+  },
+  {
+   "key": "W09_Florida_Georgia",
+   "week": 9,
+   "away": "Georgia",
+   "home": "Florida",
+   "picks": {
+    "Tyler": "Georgia",
+    "Tatum": "Georgia",
+    "Abigail": "Georgia"
+   },
+   "winner": null
+  },
+  {
+   "key": "W09_MississippiState_Texas",
+   "week": 9,
+   "away": "Mississippi State",
+   "home": "Texas",
+   "picks": {
+    "Tyler": "Texas",
+    "Tatum": "Texas",
+    "Abigail": "Texas"
+   },
+   "winner": null
+  },
+  {
+   "key": "W09_Oklahoma_SouthCarolina",
+   "week": 9,
+   "away": "South Carolina",
+   "home": "Oklahoma",
+   "picks": {
+    "Tyler": "Oklahoma",
+    "Tatum": "Oklahoma",
+    "Abigail": "Oklahoma"
+   },
+   "winner": null
+  },
+  {
+   "key": "W09_Illinois_Maryland",
+   "week": 9,
+   "away": "Illinois",
+   "home": "Maryland",
+   "picks": {
+    "Tyler": "Illinois",
+    "Tatum": "Illinois",
+    "Abigail": "Illinois"
+   },
+   "winner": null
+  },
+  {
+   "key": "W09_Indiana_Minnesota",
+   "week": 9,
+   "away": "Minnesota",
+   "home": "Indiana",
+   "picks": {
+    "Tyler": "Indiana",
+    "Tatum": "Indiana",
+    "Abigail": "Indiana"
+   },
+   "winner": null
+  },
+  {
+   "key": "W09_Iowa_Wisconsin",
+   "week": 9,
+   "away": "Wisconsin",
+   "home": "Iowa",
+   "picks": {
+    "Tyler": "Iowa",
+    "Tatum": "Iowa",
+    "Abigail": "Iowa"
+   },
+   "winner": null
+  },
+  {
+   "key": "W09_Michigan_Rutgers",
+   "week": 9,
+   "away": "Michigan",
+   "home": "Rutgers",
+   "picks": {
+    "Tyler": "Michigan",
+    "Tatum": "Michigan",
+    "Abigail": "Michigan"
+   },
+   "winner": null
+  },
+  {
+   "key": "W09_Nebraska_Washington",
+   "week": 9,
+   "away": "Washington",
+   "home": "Nebraska",
+   "picks": {
+    "Tyler": "Washington",
+    "Tatum": "Washington",
+    "Abigail": "Washington"
+   },
+   "winner": null
+  },
+  {
+   "key": "W09_Northwestern_Oregon",
+   "week": 9,
+   "away": "Northwestern",
+   "home": "Oregon",
+   "picks": {
+    "Tyler": "Oregon",
+    "Tatum": "Oregon",
+    "Abigail": "Oregon"
+   },
+   "winner": null
+  },
+  {
+   "key": "W09_OhioState_USC",
+   "week": 9,
+   "away": "Ohio State",
+   "home": "USC",
+   "picks": {
+    "Tyler": "Ohio State",
+    "Tatum": "Ohio State",
+    "Abigail": "Ohio State"
+   },
+   "winner": null
+  },
+  {
+   "key": "W09_PennState_Purdue",
+   "week": 9,
+   "away": "Purdue",
+   "home": "Penn State",
+   "picks": {
+    "Tyler": "Penn State",
+    "Tatum": "Penn State",
+    "Abigail": "Penn State"
+   },
+   "winner": null
+  },
+  {
+   "key": "W09_Nevada_UCLA",
+   "week": 9,
+   "away": "Nevada",
+   "home": "UCLA",
+   "picks": {
+    "Tyler": "UCLA",
+    "Tatum": "UCLA",
+    "Abigail": "UCLA"
+   },
+   "winner": null
+  },
+  {
+   "key": "W09_Navy_NotreDame",
+   "week": 9,
+   "away": "Navy",
+   "home": "Notre Dame",
+   "picks": {
+    "Tyler": "Notre Dame",
+    "Tatum": "Notre Dame",
+    "Abigail": "Notre Dame"
+   },
+   "winner": null
+  },
+  {
+   "key": "W10_BostonCollege_FloridaState",
+   "week": 10,
+   "away": "Florida State",
+   "home": "Boston College",
+   "picks": {
+    "Tyler": "Florida State",
+    "Tatum": "Florida State",
+    "Abigail": "Florida State"
+   },
+   "winner": null
+  },
+  {
+   "key": "W10_Clemson_Syracuse",
+   "week": 10,
+   "away": "Clemson",
+   "home": "Syracuse",
+   "picks": {
+    "Tyler": "Clemson",
+    "Tatum": "Clemson",
+    "Abigail": "Syracuse"
+   },
+   "winner": null
+  },
+  {
+   "key": "W10_Duke_NCState",
+   "week": 10,
+   "away": "Duke",
+   "home": "NC State",
+   "picks": {
+    "Tyler": "Duke",
+    "Tatum": "Duke",
+    "Abigail": "NC State"
+   },
+   "winner": null
+  },
+  {
+   "key": "W10_GeorgiaTech_Louisville",
+   "week": 10,
+   "away": "Louisville",
+   "home": "Georgia Tech",
+   "picks": {
+    "Tyler": "Louisville",
+    "Tatum": "Georgia Tech",
+    "Abigail": "Louisville"
+   },
+   "winner": null
+  },
+  {
+   "key": "W10_MiamiFL_NotreDame",
+   "week": 10,
+   "away": "Miami (FL)",
+   "home": "Notre Dame",
+   "picks": {
+    "Tyler": "Notre Dame",
+    "Tatum": "Miami (FL)",
+    "Abigail": "Notre Dame"
+   },
+   "winner": null
+  },
+  {
+   "key": "W10_NorthCarolina_UConn",
+   "week": 10,
+   "away": "North Carolina",
+   "home": "UConn",
+   "picks": {
+    "Tyler": "North Carolina",
+    "Tatum": "UConn",
+    "Abigail": "North Carolina"
+   },
+   "winner": null
+  },
+  {
+   "key": "W10_SMU_VirginiaTech",
+   "week": 10,
+   "away": "Virginia Tech",
+   "home": "SMU",
+   "picks": {
+    "Tyler": "SMU",
+    "Tatum": "SMU",
+    "Abigail": "SMU"
+   },
+   "winner": null
+  },
+  {
+   "key": "W10_Merrimack_WakeForest",
+   "week": 10,
+   "away": "Merrimack",
+   "home": "Wake Forest",
+   "picks": {
+    "Tyler": "Wake Forest",
+    "Tatum": "Wake Forest",
+    "Abigail": "Wake Forest"
+   },
+   "winner": null
+  },
+  {
+   "key": "W10_Arizona_TCU",
+   "week": 10,
+   "away": "TCU",
+   "home": "Arizona",
+   "picks": {
+    "Tyler": "Arizona",
+    "Tatum": "TCU",
+    "Abigail": "Arizona"
+   },
+   "winner": null
+  },
+  {
+   "key": "W10_ArizonaState_Colorado",
+   "week": 10,
+   "away": "Colorado",
+   "home": "Arizona State",
+   "picks": {
+    "Tyler": "Arizona State",
+    "Tatum": "Arizona State",
+    "Abigail": "Arizona State"
+   },
+   "winner": null
+  },
+  {
+   "key": "W10_Baylor_IowaState",
+   "week": 10,
+   "away": "Iowa State",
+   "home": "Baylor",
+   "picks": {
+    "Tyler": "Baylor",
+    "Tatum": "Iowa State",
+    "Abigail": "Baylor"
+   },
+   "winner": null
+  },
+  {
+   "key": "W10_BYU_Utah",
+   "week": 10,
+   "away": "BYU",
+   "home": "Utah",
+   "picks": {
+    "Tyler": "Utah",
+    "Tatum": "Utah",
+    "Abigail": "Utah"
+   },
+   "winner": null
+  },
+  {
+   "key": "W10_Cincinnati_Houston",
+   "week": 10,
+   "away": "Cincinnati",
+   "home": "Houston",
+   "picks": {
+    "Tyler": "Houston",
+    "Tatum": "Cincinnati",
+    "Abigail": "Houston"
+   },
+   "winner": null
+  },
+  {
+   "key": "W10_Kansas_UCF",
+   "week": 10,
+   "away": "UCF",
+   "home": "Kansas",
+   "picks": {
+    "Tyler": "UCF",
+    "Tatum": "Kansas",
+    "Abigail": "UCF"
+   },
+   "winner": null
+  },
+  {
+   "key": "W10_KansasState_OklahomaState",
+   "week": 10,
+   "away": "Oklahoma State",
+   "home": "Kansas State",
+   "picks": {
+    "Tyler": "Kansas State",
+    "Tatum": "Kansas State",
+    "Abigail": "Kansas State"
+   },
+   "winner": null
+  },
+  {
+   "key": "W10_TexasTech_WestVirginia",
+   "week": 10,
+   "away": "West Virginia",
+   "home": "Texas Tech",
+   "picks": {
+    "Tyler": "Texas Tech",
+    "Tatum": "Texas Tech",
+    "Abigail": "Texas Tech"
+   },
+   "winner": null
+  },
+  {
+   "key": "W10_Alabama_LSU",
+   "week": 10,
+   "away": "Alabama",
+   "home": "LSU",
+   "picks": {
+    "Tyler": "LSU",
+    "Tatum": "Alabama",
+    "Abigail": "LSU"
+   },
+   "winner": null
+  },
+  {
+   "key": "W10_Arkansas_Auburn",
+   "week": 10,
+   "away": "Arkansas",
+   "home": "Auburn",
+   "picks": {
+    "Tyler": "Auburn",
+    "Tatum": "Auburn",
+    "Abigail": "Auburn"
+   },
+   "winner": null
+  },
+  {
+   "key": "W10_Florida_Oklahoma",
+   "week": 10,
+   "away": "Oklahoma",
+   "home": "Florida",
+   "picks": {
+    "Tyler": "Oklahoma",
+    "Tatum": "Oklahoma",
+    "Abigail": "Oklahoma"
+   },
+   "winner": null
+  },
+  {
+   "key": "W10_Georgia_OleMiss",
+   "week": 10,
+   "away": "Georgia",
+   "home": "Ole Miss",
+   "picks": {
+    "Tyler": "Ole Miss",
+    "Tatum": "Ole Miss",
+    "Abigail": "Georgia"
+   },
+   "winner": null
+  },
+  {
+   "key": "W10_Kentucky_Tennessee",
+   "week": 10,
+   "away": "Kentucky",
+   "home": "Tennessee",
+   "picks": {
+    "Tyler": "Tennessee",
+    "Tatum": "Tennessee",
+    "Abigail": "Tennessee"
+   },
+   "winner": null
+  },
+  {
+   "key": "W10_MississippiState_Vanderbilt",
+   "week": 10,
+   "away": "Vanderbilt",
+   "home": "Mississippi State",
+   "picks": {
+    "Tyler": "Vanderbilt",
+    "Tatum": "Vanderbilt",
+    "Abigail": "Vanderbilt"
+   },
+   "winner": null
+  },
+  {
+   "key": "W10_Missouri_Texas",
+   "week": 10,
+   "away": "Texas",
+   "home": "Missouri",
+   "picks": {
+    "Tyler": "Texas",
+    "Tatum": "Texas",
+    "Abigail": "Texas"
+   },
+   "winner": null
+  },
+  {
+   "key": "W10_SouthCarolina_TexasAM",
+   "week": 10,
+   "away": "Texas A&M",
+   "home": "South Carolina",
+   "picks": {
+    "Tyler": "Texas A&M",
+    "Tatum": "Texas A&M",
+    "Abigail": "Texas A&M"
+   },
+   "winner": null
+  },
+  {
+   "key": "W10_Illinois_Nebraska",
+   "week": 10,
+   "away": "Nebraska",
+   "home": "Illinois",
+   "picks": {
+    "Tyler": "Nebraska",
+    "Tatum": "Nebraska",
+    "Abigail": "Nebraska"
+   },
+   "winner": null
+  },
+  {
+   "key": "W10_Iowa_Northwestern",
+   "week": 10,
+   "away": "Iowa",
+   "home": "Northwestern",
+   "picks": {
+    "Tyler": "Iowa",
+    "Tatum": "Iowa",
+    "Abigail": "Northwestern"
+   },
+   "winner": null
+  },
+  {
+   "key": "W10_Maryland_Purdue",
+   "week": 10,
+   "away": "Maryland",
+   "home": "Purdue",
+   "picks": {
+    "Tyler": "Purdue",
+    "Tatum": "Maryland",
+    "Abigail": "Purdue"
+   },
+   "winner": null
+  },
+  {
+   "key": "W10_Michigan_MichiganState",
+   "week": 10,
+   "away": "Michigan State",
+   "home": "Michigan",
+   "picks": {
+    "Tyler": "Michigan",
+    "Tatum": "Michigan",
+    "Abigail": "Michigan"
+   },
+   "winner": null
+  },
+  {
+   "key": "W10_Minnesota_UCLA",
+   "week": 10,
+   "away": "UCLA",
+   "home": "Minnesota",
+   "picks": {
+    "Tyler": "Minnesota",
+    "Tatum": "UCLA",
+    "Abigail": "Minnesota"
+   },
+   "winner": null
+  },
+  {
+   "key": "W10_OhioState_Oregon",
+   "week": 10,
+   "away": "Oregon",
+   "home": "Ohio State",
+   "picks": {
+    "Tyler": "Oregon",
+    "Tatum": "Ohio State",
+    "Abigail": "Ohio State"
+   },
+   "winner": null
+  },
+  {
+   "key": "W10_PennState_Washington",
+   "week": 10,
+   "away": "Penn State",
+   "home": "Washington",
+   "picks": {
+    "Tyler": "Penn State",
+    "Tatum": "Washington",
+    "Abigail": "Penn State"
+   },
+   "winner": null
+  },
+  {
+   "key": "W10_Rutgers_Wisconsin",
+   "week": 10,
+   "away": "Rutgers",
+   "home": "Wisconsin",
+   "picks": {
+    "Tyler": "Wisconsin",
+    "Tatum": "Rutgers",
+    "Abigail": "Rutgers"
+   },
+   "winner": null
+  },
+  {
+   "key": "W11_BostonCollege_NotreDame",
+   "week": 11,
+   "away": "Boston College",
+   "home": "Notre Dame",
+   "picks": {
+    "Tyler": "Notre Dame",
+    "Tatum": "Notre Dame",
+    "Abigail": "Notre Dame"
+   },
+   "winner": null
+  },
+  {
+   "key": "W11_California_Virginia",
+   "week": 11,
+   "away": "California",
+   "home": "Virginia",
+   "picks": {
+    "Tyler": "Virginia",
+    "Tatum": "Virginia",
+    "Abigail": "Virginia"
+   },
+   "winner": null
+  },
+  {
+   "key": "W11_Clemson_GeorgiaTech",
+   "week": 11,
+   "away": "Georgia Tech",
+   "home": "Clemson",
+   "picks": {
+    "Tyler": "Clemson",
+    "Tatum": "Clemson",
+    "Abigail": "Clemson"
+   },
+   "winner": null
+  },
+  {
+   "key": "W11_Duke_MiamiFL",
+   "week": 11,
+   "away": "Duke",
+   "home": "Miami (FL)",
+   "picks": {
+    "Tyler": "Miami (FL)",
+    "Tatum": "Miami (FL)",
+    "Abigail": "Miami (FL)"
+   },
+   "winner": null
+  },
+  {
+   "key": "W11_FloridaState_Pittsburgh",
+   "week": 11,
+   "away": "Florida State",
+   "home": "Pittsburgh",
+   "picks": {
+    "Tyler": "Florida State",
+    "Tatum": "Florida State",
+    "Abigail": "Florida State"
+   },
+   "winner": null
+  },
+  {
+   "key": "W11_Louisville_NorthCarolina",
+   "week": 11,
+   "away": "Louisville",
+   "home": "North Carolina",
+   "picks": {
+    "Tyler": "Louisville",
+    "Tatum": "North Carolina",
+    "Abigail": "North Carolina"
+   },
+   "winner": null
+  },
+  {
+   "key": "W11_NCState_Syracuse",
+   "week": 11,
+   "away": "Syracuse",
+   "home": "NC State",
+   "picks": {
+    "Tyler": "NC State",
+    "Tatum": "Syracuse",
+    "Abigail": "Syracuse"
+   },
+   "winner": null
+  },
+  {
+   "key": "W11_SMU_WakeForest",
+   "week": 11,
+   "away": "Wake Forest",
+   "home": "SMU",
+   "picks": {
+    "Tyler": "SMU",
+    "Tatum": "SMU",
+    "Abigail": "SMU"
+   },
+   "winner": null
+  },
+  {
+   "key": "W11_Stanford_VirginiaTech",
+   "week": 11,
+   "away": "Stanford",
+   "home": "Virginia Tech",
+   "picks": {
+    "Tyler": "Virginia Tech",
+    "Tatum": "Virginia Tech",
+    "Abigail": "Virginia Tech"
+   },
+   "winner": null
+  },
+  {
+   "key": "W11_Arizona_Utah",
+   "week": 11,
+   "away": "Utah",
+   "home": "Arizona",
+   "picks": {
+    "Tyler": "Arizona",
+    "Tatum": "Utah",
+    "Abigail": "Arizona"
+   },
+   "winner": null
+  },
+  {
+   "key": "W11_ArizonaState_UCF",
+   "week": 11,
+   "away": "Arizona State",
+   "home": "UCF",
+   "picks": {
+    "Tyler": "UCF",
+    "Tatum": "Arizona State",
+    "Abigail": "UCF"
+   },
+   "winner": null
+  },
+  {
+   "key": "W11_BYU_Baylor",
+   "week": 11,
+   "away": "Baylor",
+   "home": "BYU",
+   "picks": {
+    "Tyler": "BYU",
+    "Tatum": "BYU",
+    "Abigail": "BYU"
+   },
+   "winner": null
+  },
+  {
+   "key": "W11_Cincinnati_IowaState",
+   "week": 11,
+   "away": "Cincinnati",
+   "home": "Iowa State",
+   "picks": {
+    "Tyler": "Cincinnati",
+    "Tatum": "Cincinnati",
+    "Abigail": "Cincinnati"
+   },
+   "winner": null
+  },
+  {
+   "key": "W11_Colorado_Houston",
+   "week": 11,
+   "away": "Houston",
+   "home": "Colorado",
+   "picks": {
+    "Tyler": "Colorado",
+    "Tatum": "Colorado",
+    "Abigail": "Houston"
+   },
+   "winner": null
+  },
+  {
+   "key": "W11_Kansas_WestVirginia",
+   "week": 11,
+   "away": "Kansas",
+   "home": "West Virginia",
+   "picks": {
+    "Tyler": "West Virginia",
+    "Tatum": "West Virginia",
+    "Abigail": "Kansas"
+   },
+   "winner": null
+  },
+  {
+   "key": "W11_KansasState_TCU",
+   "week": 11,
+   "away": "Kansas State",
+   "home": "TCU",
+   "picks": {
+    "Tyler": "TCU",
+    "Tatum": "TCU",
+    "Abigail": "TCU"
+   },
+   "winner": null
+  },
+  {
+   "key": "W11_OklahomaState_TexasTech",
+   "week": 11,
+   "away": "Texas Tech",
+   "home": "Oklahoma State",
+   "picks": {
+    "Tyler": "Oklahoma State",
+    "Tatum": "Texas Tech",
+    "Abigail": "Texas Tech"
+   },
+   "winner": null
+  },
+  {
+   "key": "W11_Alabama_Vanderbilt",
+   "week": 11,
+   "away": "Alabama",
+   "home": "Vanderbilt",
+   "picks": {
+    "Tyler": "Alabama",
+    "Tatum": "Alabama",
+    "Abigail": "Alabama"
+   },
+   "winner": null
+  },
+  {
+   "key": "W11_Arkansas_SouthCarolina",
+   "week": 11,
+   "away": "South Carolina",
+   "home": "Arkansas",
+   "picks": {
+    "Tyler": "Arkansas",
+    "Tatum": "South Carolina",
+    "Abigail": "South Carolina"
+   },
+   "winner": null
+  },
+  {
+   "key": "W11_Auburn_MississippiState",
+   "week": 11,
+   "away": "Auburn",
+   "home": "Mississippi State",
+   "picks": {
+    "Tyler": "Auburn",
+    "Tatum": "Auburn",
+    "Abigail": "Mississippi State"
+   },
+   "winner": null
+  },
+  {
+   "key": "W11_Florida_Kentucky",
+   "week": 11,
+   "away": "Florida",
+   "home": "Kentucky",
+   "picks": {
+    "Tyler": "Florida",
+    "Tatum": "Florida",
+    "Abigail": "Kentucky"
+   },
+   "winner": null
+  },
+  {
+   "key": "W11_Georgia_Missouri",
+   "week": 11,
+   "away": "Missouri",
+   "home": "Georgia",
+   "picks": {
+    "Tyler": "Georgia",
+    "Tatum": "Georgia",
+    "Abigail": "Georgia"
+   },
+   "winner": null
+  },
+  {
+   "key": "W11_LSU_Texas",
+   "week": 11,
+   "away": "Texas",
+   "home": "LSU",
+   "picks": {
+    "Tyler": "Texas",
+    "Tatum": "LSU",
+    "Abigail": "Texas"
+   },
+   "winner": null
+  },
+  {
+   "key": "W11_Oklahoma_OleMiss",
+   "week": 11,
+   "away": "Ole Miss",
+   "home": "Oklahoma",
+   "picks": {
+    "Tyler": "Ole Miss",
+    "Tatum": "Oklahoma",
+    "Abigail": "Ole Miss"
+   },
+   "winner": null
+  },
+  {
+   "key": "W11_Tennessee_TexasAM",
+   "week": 11,
+   "away": "Tennessee",
+   "home": "Texas A&M",
+   "picks": {
+    "Tyler": "Texas A&M",
+    "Tatum": "Texas A&M",
+    "Abigail": "Texas A&M"
+   },
+   "winner": null
+  },
+  {
+   "key": "W11_Illinois_UCLA",
+   "week": 11,
+   "away": "Illinois",
+   "home": "UCLA",
+   "picks": {
+    "Tyler": "Illinois",
+    "Tatum": "Illinois",
+    "Abigail": "Illinois"
+   },
+   "winner": null
+  },
+  {
+   "key": "W11_Indiana_USC",
+   "week": 11,
+   "away": "USC",
+   "home": "Indiana",
+   "picks": {
+    "Tyler": "Indiana",
+    "Tatum": "Indiana",
+    "Abigail": "Indiana"
+   },
+   "winner": null
+  },
+  {
+   "key": "W11_Iowa_Purdue",
+   "week": 11,
+   "away": "Purdue",
+   "home": "Iowa",
+   "picks": {
+    "Tyler": "Iowa",
+    "Tatum": "Iowa",
+    "Abigail": "Iowa"
+   },
+   "winner": null
+  },
+  {
+   "key": "W11_Maryland_Wisconsin",
+   "week": 11,
+   "away": "Wisconsin",
+   "home": "Maryland",
+   "picks": {
+    "Tyler": "Wisconsin",
+    "Tatum": "Wisconsin",
+    "Abigail": "Maryland"
+   },
+   "winner": null
+  },
+  {
+   "key": "W11_Michigan_Oregon",
+   "week": 11,
+   "away": "Michigan",
+   "home": "Oregon",
+   "picks": {
+    "Tyler": "Oregon",
+    "Tatum": "Oregon",
+    "Abigail": "Oregon"
+   },
+   "winner": null
+  },
+  {
+   "key": "W11_MichiganState_Washington",
+   "week": 11,
+   "away": "Washington",
+   "home": "Michigan State",
+   "picks": {
+    "Tyler": "Washington",
+    "Tatum": "Washington",
+    "Abigail": "Washington"
+   },
+   "winner": null
+  },
+  {
+   "key": "W11_Minnesota_PennState",
+   "week": 11,
+   "away": "Minnesota",
+   "home": "Penn State",
+   "picks": {
+    "Tyler": "Penn State",
+    "Tatum": "Penn State",
+    "Abigail": "Penn State"
+   },
+   "winner": null
+  },
+  {
+   "key": "W11_Nebraska_Rutgers",
+   "week": 11,
+   "away": "Nebraska",
+   "home": "Rutgers",
+   "picks": {
+    "Tyler": "Nebraska",
+    "Tatum": "Rutgers",
+    "Abigail": "Nebraska"
+   },
+   "winner": null
+  },
+  {
+   "key": "W11_Northwestern_OhioState",
+   "week": 11,
+   "away": "Northwestern",
+   "home": "Ohio State",
+   "picks": {
+    "Tyler": "Ohio State",
+    "Tatum": "Ohio State",
+    "Abigail": "Ohio State"
+   },
+   "winner": null
+  },
+  {
+   "key": "W12_BostonCollege_Syracuse",
+   "week": 12,
+   "away": "Syracuse",
+   "home": "Boston College",
+   "picks": {
+    "Tyler": "Syracuse",
+    "Tatum": "Syracuse",
+    "Abigail": "Syracuse"
+   },
+   "winner": null
+  },
+  {
+   "key": "W12_California_Stanford",
+   "week": 12,
+   "away": "Stanford",
+   "home": "California",
+   "picks": {
+    "Tyler": "California",
+    "Tatum": "California",
+    "Abigail": "California"
+   },
+   "winner": null
+  },
+  {
+   "key": "W12_Clemson_Duke",
+   "week": 12,
+   "away": "Clemson",
+   "home": "Duke",
+   "picks": {
+    "Tyler": "Clemson",
+    "Tatum": "Clemson",
+    "Abigail": "Clemson"
+   },
+   "winner": null
+  },
+  {
+   "key": "W12_FloridaState_NCState",
+   "week": 12,
+   "away": "NC State",
+   "home": "Florida State",
+   "picks": {
+    "Tyler": "Florida State",
+    "Tatum": "Florida State",
+    "Abigail": "NC State"
+   },
+   "winner": null
+  },
+  {
+   "key": "W12_GeorgiaTech_WakeForest",
+   "week": 12,
+   "away": "Wake Forest",
+   "home": "Georgia Tech",
+   "picks": {
+    "Tyler": "Georgia Tech",
+    "Tatum": "Georgia Tech",
+    "Abigail": "Georgia Tech"
+   },
+   "winner": null
+  },
+  {
+   "key": "W12_Louisville_Pittsburgh",
+   "week": 12,
+   "away": "Pittsburgh",
+   "home": "Louisville",
+   "picks": {
+    "Tyler": "Louisville",
+    "Tatum": "Louisville",
+    "Abigail": "Pittsburgh"
+   },
+   "winner": null
+  },
+  {
+   "key": "W12_MiamiFL_VirginiaTech",
+   "week": 12,
+   "away": "Virginia Tech",
+   "home": "Miami (FL)",
+   "picks": {
+    "Tyler": "Miami (FL)",
+    "Tatum": "Miami (FL)",
+    "Abigail": "Miami (FL)"
+   },
+   "winner": null
+  },
+  {
+   "key": "W12_NorthCarolina_Virginia",
+   "week": 12,
+   "away": "North Carolina",
+   "home": "Virginia",
+   "picks": {
+    "Tyler": "Virginia",
+    "Tatum": "Virginia",
+    "Abigail": "Virginia"
+   },
+   "winner": null
+  },
+  {
+   "key": "W12_NotreDame_SMU",
+   "week": 12,
+   "away": "SMU",
+   "home": "Notre Dame",
+   "picks": {
+    "Tyler": "Notre Dame",
+    "Tatum": "Notre Dame",
+    "Abigail": "Notre Dame"
+   },
+   "winner": null
+  },
+  {
+   "key": "W12_Arizona_KansasState",
+   "week": 12,
+   "away": "Arizona",
+   "home": "Kansas State",
+   "picks": {
+    "Tyler": "Arizona",
+    "Tatum": "Kansas State",
+    "Abigail": "Arizona"
+   },
+   "winner": null
+  },
+  {
+   "key": "W12_ArizonaState_OklahomaState",
+   "week": 12,
+   "away": "Oklahoma State",
+   "home": "Arizona State",
+   "picks": {
+    "Tyler": "Oklahoma State",
+    "Tatum": "Arizona State",
+    "Abigail": "Arizona State"
+   },
+   "winner": null
+  },
+  {
+   "key": "W12_Baylor_TexasTech",
+   "week": 12,
+   "away": "Texas Tech",
+   "home": "Baylor",
+   "picks": {
+    "Tyler": "Texas Tech",
+    "Tatum": "Baylor",
+    "Abigail": "Texas Tech"
+   },
+   "winner": null
+  },
+  {
+   "key": "W12_BYU_Kansas",
+   "week": 12,
+   "away": "BYU",
+   "home": "Kansas",
+   "picks": {
+    "Tyler": "BYU",
+    "Tatum": "BYU",
+    "Abigail": "BYU"
+   },
+   "winner": null
+  },
+  {
+   "key": "W12_Cincinnati_Colorado",
+   "week": 12,
+   "away": "Colorado",
+   "home": "Cincinnati",
+   "picks": {
+    "Tyler": "Cincinnati",
+    "Tatum": "Cincinnati",
+    "Abigail": "Cincinnati"
+   },
+   "winner": null
+  },
+  {
+   "key": "W12_Houston_WestVirginia",
+   "week": 12,
+   "away": "Houston",
+   "home": "West Virginia",
+   "picks": {
+    "Tyler": "Houston",
+    "Tatum": "Houston",
+    "Abigail": "West Virginia"
+   },
+   "winner": null
+  },
+  {
+   "key": "W12_IowaState_UCF",
+   "week": 12,
+   "away": "Iowa State",
+   "home": "UCF",
+   "picks": {
+    "Tyler": "UCF",
+    "Tatum": "UCF",
+    "Abigail": "UCF"
+   },
+   "winner": null
+  },
+  {
+   "key": "W12_TCU_Utah",
+   "week": 12,
+   "away": "Utah",
+   "home": "TCU",
+   "picks": {
+    "Tyler": "Utah",
+    "Tatum": "TCU",
+    "Abigail": "Utah"
+   },
+   "winner": null
+  },
+  {
+   "key": "W12_Alabama_Chattanooga",
+   "week": 12,
+   "away": "Chattanooga",
+   "home": "Alabama",
+   "picks": {
+    "Tyler": "Alabama",
+    "Tatum": "Alabama",
+    "Abigail": "Alabama"
+   },
+   "winner": null
+  },
+  {
+   "key": "W12_Arkansas_Texas",
+   "week": 12,
+   "away": "Arkansas",
+   "home": "Texas",
+   "picks": {
+    "Tyler": "Texas",
+    "Tatum": "Texas",
+    "Abigail": "Texas"
+   },
+   "winner": null
+  },
+  {
+   "key": "W12_Auburn_Samford",
+   "week": 12,
+   "away": "Samford",
+   "home": "Auburn",
+   "picks": {
+    "Tyler": "Auburn",
+    "Tatum": "Auburn",
+    "Abigail": "Auburn"
+   },
+   "winner": null
+  },
+  {
+   "key": "W12_Florida_Vanderbilt",
+   "week": 12,
+   "away": "Vanderbilt",
+   "home": "Florida",
+   "picks": {
+    "Tyler": "Vanderbilt",
+    "Tatum": "Florida",
+    "Abigail": "Florida"
+   },
+   "winner": null
+  },
+  {
+   "key": "W12_Georgia_SouthCarolina",
+   "week": 12,
+   "away": "Georgia",
+   "home": "South Carolina",
+   "picks": {
+    "Tyler": "Georgia",
+    "Tatum": "Georgia",
+    "Abigail": "Georgia"
+   },
+   "winner": null
+  },
+  {
+   "key": "W12_Kentucky_Missouri",
+   "week": 12,
+   "away": "Kentucky",
+   "home": "Missouri",
+   "picks": {
+    "Tyler": "Missouri",
+    "Tatum": "Kentucky",
+    "Abigail": "Missouri"
+   },
+   "winner": null
+  },
+  {
+   "key": "W12_LSU_Tennessee",
+   "week": 12,
+   "away": "LSU",
+   "home": "Tennessee",
+   "picks": {
+    "Tyler": "LSU",
+    "Tatum": "Tennessee",
+    "Abigail": "LSU"
+   },
+   "winner": null
+  },
+  {
+   "key": "W12_MississippiState_TennesseeTech",
+   "week": 12,
+   "away": "Tennessee Tech",
+   "home": "Mississippi State",
+   "picks": {
+    "Tyler": "Mississippi State",
+    "Tatum": "Mississippi State",
+    "Abigail": "Mississippi State"
+   },
+   "winner": null
+  },
+  {
+   "key": "W12_Oklahoma_TexasAM",
+   "week": 12,
+   "away": "Texas A&M",
+   "home": "Oklahoma",
+   "picks": {
+    "Tyler": "Texas A&M",
+    "Tatum": "Oklahoma",
+    "Abigail": "Texas A&M"
+   },
+   "winner": null
+  },
+  {
+   "key": "W12_OleMiss_Wofford",
+   "week": 12,
+   "away": "Wofford",
+   "home": "Ole Miss",
+   "picks": {
+    "Tyler": "Ole Miss",
+    "Tatum": "Ole Miss",
+    "Abigail": "Ole Miss"
+   },
+   "winner": null
+  },
+  {
+   "key": "W12_Illinois_Iowa",
+   "week": 12,
+   "away": "Iowa",
+   "home": "Illinois",
+   "picks": {
+    "Tyler": "Iowa",
+    "Tatum": "Illinois",
+    "Abigail": "Illinois"
+   },
+   "winner": null
+  },
+  {
+   "key": "W12_Indiana_Washington",
+   "week": 12,
+   "away": "Indiana",
+   "home": "Washington",
+   "picks": {
+    "Tyler": "Indiana",
+    "Tatum": "Washington",
+    "Abigail": "Indiana"
+   },
+   "winner": null
+  },
+  {
+   "key": "W12_Maryland_USC",
+   "week": 12,
+   "away": "Maryland",
+   "home": "USC",
+   "picks": {
+    "Tyler": "USC",
+    "Tatum": "USC",
+    "Abigail": "USC"
+   },
+   "winner": null
+  },
+  {
+   "key": "W12_Michigan_UCLA",
+   "week": 12,
+   "away": "UCLA",
+   "home": "Michigan",
+   "picks": {
+    "Tyler": "Michigan",
+    "Tatum": "Michigan",
+    "Abigail": "Michigan"
+   },
+   "winner": null
+  },
+  {
+   "key": "W12_MichiganState_Oregon",
+   "week": 12,
+   "away": "Oregon",
+   "home": "Michigan State",
+   "picks": {
+    "Tyler": "Oregon",
+    "Tatum": "Oregon",
+    "Abigail": "Oregon"
+   },
+   "winner": null
+  },
+  {
+   "key": "W12_Minnesota_Northwestern",
+   "week": 12,
+   "away": "Northwestern",
+   "home": "Minnesota",
+   "picks": {
+    "Tyler": "Minnesota",
+    "Tatum": "Minnesota",
+    "Abigail": "Minnesota"
+   },
+   "winner": null
+  },
+  {
+   "key": "W12_Nebraska_OhioState",
+   "week": 12,
+   "away": "Ohio State",
+   "home": "Nebraska",
+   "picks": {
+    "Tyler": "Ohio State",
+    "Tatum": "Ohio State",
+    "Abigail": "Nebraska"
+   },
+   "winner": null
+  },
+  {
+   "key": "W12_PennState_Rutgers",
+   "week": 12,
+   "away": "Rutgers",
+   "home": "Penn State",
+   "picks": {
+    "Tyler": "Penn State",
+    "Tatum": "Penn State",
+    "Abigail": "Penn State"
+   },
+   "winner": null
+  },
+  {
+   "key": "W12_Purdue_Wisconsin",
+   "week": 12,
+   "away": "Wisconsin",
+   "home": "Purdue",
+   "picks": {
+    "Tyler": "Wisconsin",
+    "Tatum": "Wisconsin",
+    "Abigail": "Wisconsin"
+   },
+   "winner": null
+  },
+  {
+   "key": "W13_BostonCollege_MiamiFL",
+   "week": 13,
+   "away": "Boston College",
+   "home": "Miami (FL)",
+   "picks": {
+    "Tyler": "Miami (FL)",
+    "Tatum": "Miami (FL)",
+    "Abigail": "Miami (FL)"
+   },
+   "winner": null
+  },
+  {
+   "key": "W13_California_Pittsburgh",
+   "week": 13,
+   "away": "Pittsburgh",
+   "home": "California",
+   "picks": {
+    "Tyler": "California",
+    "Tatum": "California",
+    "Abigail": "California"
+   },
+   "winner": null
+  },
+  {
+   "key": "W13_Clemson_SouthCarolina",
+   "week": 13,
+   "away": "South Carolina",
+   "home": "Clemson",
+   "picks": {
+    "Tyler": "South Carolina",
+    "Tatum": "Clemson",
+    "Abigail": "Clemson"
+   },
+   "winner": null
+  },
+  {
+   "key": "W13_Duke_WakeForest",
+   "week": 13,
+   "away": "Duke",
+   "home": "Wake Forest",
+   "picks": {
+    "Tyler": "Duke",
+    "Tatum": "Duke",
+    "Abigail": "Wake Forest"
+   },
+   "winner": null
+  },
+  {
+   "key": "W13_Florida_FloridaState",
+   "week": 13,
+   "away": "Florida",
+   "home": "Florida State",
+   "picks": {
+    "Tyler": "Florida State",
+    "Tatum": "Florida State",
+    "Abigail": "Florida State"
+   },
+   "winner": null
+  },
+  {
+   "key": "W13_Georgia_GeorgiaTech",
+   "week": 13,
+   "away": "Georgia Tech",
+   "home": "Georgia",
+   "picks": {
+    "Tyler": "Georgia",
+    "Tatum": "Georgia",
+    "Abigail": "Georgia"
+   },
+   "winner": null
+  },
+  {
+   "key": "W13_Kentucky_Louisville",
+   "week": 13,
+   "away": "Louisville",
+   "home": "Kentucky",
+   "picks": {
+    "Tyler": "Louisville",
+    "Tatum": "Louisville",
+    "Abigail": "Kentucky"
+   },
+   "winner": null
+  },
+  {
+   "key": "W13_NCState_NorthCarolina",
+   "week": 13,
+   "away": "NC State",
+   "home": "North Carolina",
+   "picks": {
+    "Tyler": "NC State",
+    "Tatum": "NC State",
+    "Abigail": "NC State"
+   },
+   "winner": null
+  },
+  {
+   "key": "W13_SMU_Stanford",
+   "week": 13,
+   "away": "SMU",
+   "home": "Stanford",
+   "picks": {
+    "Tyler": "SMU",
+    "Tatum": "SMU",
+    "Abigail": "SMU"
+   },
+   "winner": null
+  },
+  {
+   "key": "W13_NotreDame_Syracuse",
+   "week": 13,
+   "away": "Notre Dame",
+   "home": "Syracuse",
+   "picks": {
+    "Tyler": "Notre Dame",
+    "Tatum": "Notre Dame",
+    "Abigail": "Notre Dame"
+   },
+   "winner": null
+  },
+  {
+   "key": "W13_Virginia_VirginiaTech",
+   "week": 13,
+   "away": "Virginia",
+   "home": "Virginia Tech",
+   "picks": {
+    "Tyler": "Virginia Tech",
+    "Tatum": "Virginia",
+    "Abigail": "Virginia Tech"
+   },
+   "winner": null
+  },
+  {
+   "key": "W13_Arizona_ArizonaState",
+   "week": 13,
+   "away": "Arizona State",
+   "home": "Arizona",
+   "picks": {
+    "Tyler": "Arizona State",
+    "Tatum": "Arizona",
+    "Abigail": "Arizona"
+   },
+   "winner": null
+  },
+  {
+   "key": "W13_Baylor_Houston",
+   "week": 13,
+   "away": "Baylor",
+   "home": "Houston",
+   "picks": {
+    "Tyler": "Houston",
+    "Tatum": "Baylor",
+    "Abigail": "Houston"
+   },
+   "winner": null
+  },
+  {
+   "key": "W13_BYU_Cincinnati",
+   "week": 13,
+   "away": "Cincinnati",
+   "home": "BYU",
+   "picks": {
+    "Tyler": "BYU",
+    "Tatum": "BYU",
+    "Abigail": "BYU"
+   },
+   "winner": null
+  },
+  {
+   "key": "W13_Colorado_UCF",
+   "week": 13,
+   "away": "UCF",
+   "home": "Colorado",
+   "picks": {
+    "Tyler": "UCF",
+    "Tatum": "Colorado",
+    "Abigail": "UCF"
+   },
+   "winner": null
+  },
+  {
+   "key": "W13_IowaState_KansasState",
+   "week": 13,
+   "away": "Kansas State",
+   "home": "Iowa State",
+   "picks": {
+    "Tyler": "Kansas State",
+    "Tatum": "Kansas State",
+    "Abigail": "Iowa State"
+   },
+   "winner": null
+  },
+  {
+   "key": "W13_Kansas_OklahomaState",
+   "week": 13,
+   "away": "Kansas",
+   "home": "Oklahoma State",
+   "picks": {
+    "Tyler": "Oklahoma State",
+    "Tatum": "Kansas",
+    "Abigail": "Oklahoma State"
+   },
+   "winner": null
+  },
+  {
+   "key": "W13_TCU_TexasTech",
+   "week": 13,
+   "away": "TCU",
+   "home": "Texas Tech",
+   "picks": {
+    "Tyler": "Texas Tech",
+    "Tatum": "Texas Tech",
+    "Abigail": "Texas Tech"
+   },
+   "winner": null
+  },
+  {
+   "key": "W13_Utah_WestVirginia",
+   "week": 13,
+   "away": "West Virginia",
+   "home": "Utah",
+   "picks": {
+    "Tyler": "Utah",
+    "Tatum": "Utah",
+    "Abigail": "Utah"
+   },
+   "winner": null
+  },
+  {
+   "key": "W13_Alabama_Auburn",
+   "week": 13,
+   "away": "Auburn",
+   "home": "Alabama",
+   "picks": {
+    "Tyler": "Alabama",
+    "Tatum": "Alabama",
+    "Abigail": "Auburn"
+   },
+   "winner": null
+  },
+  {
+   "key": "W13_Arkansas_LSU",
+   "week": 13,
+   "away": "LSU",
+   "home": "Arkansas",
+   "picks": {
+    "Tyler": "LSU",
+    "Tatum": "LSU",
+    "Abigail": "LSU"
+   },
+   "winner": null
+  },
+  {
+   "key": "W13_MississippiState_OleMiss",
+   "week": 13,
+   "away": "Mississippi State",
+   "home": "Ole Miss",
+   "picks": {
+    "Tyler": "Ole Miss",
+    "Tatum": "Ole Miss",
+    "Abigail": "Ole Miss"
+   },
+   "winner": null
+  },
+  {
+   "key": "W13_Missouri_Oklahoma",
+   "week": 13,
+   "away": "Oklahoma",
+   "home": "Missouri",
+   "picks": {
+    "Tyler": "Oklahoma",
+    "Tatum": "Oklahoma",
+    "Abigail": "Oklahoma"
+   },
+   "winner": null
+  },
+  {
+   "key": "W13_Tennessee_Vanderbilt",
+   "week": 13,
+   "away": "Tennessee",
+   "home": "Vanderbilt",
+   "picks": {
+    "Tyler": "Vanderbilt",
+    "Tatum": "Tennessee",
+    "Abigail": "Vanderbilt"
+   },
+   "winner": null
+  },
+  {
+   "key": "W13_Texas_TexasAM",
+   "week": 13,
+   "away": "Texas",
+   "home": "Texas A&M",
+   "picks": {
+    "Tyler": "Texas A&M",
+    "Tatum": "Texas A&M",
+    "Abigail": "Texas A&M"
+   },
+   "winner": null
+  },
+  {
+   "key": "W13_Illinois_Northwestern",
+   "week": 13,
+   "away": "Northwestern",
+   "home": "Illinois",
+   "picks": {
+    "Tyler": "Illinois",
+    "Tatum": "Illinois",
+    "Abigail": "Illinois"
+   },
+   "winner": null
+  },
+  {
+   "key": "W13_Indiana_Purdue",
+   "week": 13,
+   "away": "Purdue",
+   "home": "Indiana",
+   "picks": {
+    "Tyler": "Indiana",
+    "Tatum": "Indiana",
+    "Abigail": "Indiana"
+   },
+   "winner": null
+  },
+  {
+   "key": "W13_Iowa_Nebraska",
+   "week": 13,
+   "away": "Nebraska",
+   "home": "Iowa",
+   "picks": {
+    "Tyler": "Iowa",
+    "Tatum": "Iowa",
+    "Abigail": "Nebraska"
+   },
+   "winner": null
+  },
+  {
+   "key": "W13_Maryland_PennState",
+   "week": 13,
+   "away": "Penn State",
+   "home": "Maryland",
+   "picks": {
+    "Tyler": "Penn State",
+    "Tatum": "Penn State",
+    "Abigail": "Penn State"
+   },
+   "winner": null
+  },
+  {
+   "key": "W13_Michigan_OhioState",
+   "week": 13,
+   "away": "Michigan",
+   "home": "Ohio State",
+   "picks": {
+    "Tyler": "Ohio State",
+    "Tatum": "Ohio State",
+    "Abigail": "Ohio State"
+   },
+   "winner": null
+  },
+  {
+   "key": "W13_MichiganState_Rutgers",
+   "week": 13,
+   "away": "Michigan State",
+   "home": "Rutgers",
+   "picks": {
+    "Tyler": "Michigan State",
+    "Tatum": "Michigan State",
+    "Abigail": "Michigan State"
+   },
+   "winner": null
+  },
+  {
+   "key": "W13_Minnesota_Wisconsin",
+   "week": 13,
+   "away": "Minnesota",
+   "home": "Wisconsin",
+   "picks": {
+    "Tyler": "Minnesota",
+    "Tatum": "Minnesota",
+    "Abigail": "Wisconsin"
+   },
+   "winner": null
+  },
+  {
+   "key": "W13_Oregon_Washington",
+   "week": 13,
+   "away": "Washington",
+   "home": "Oregon",
+   "picks": {
+    "Tyler": "Oregon",
+    "Tatum": "Oregon",
+    "Abigail": "Oregon"
+   },
+   "winner": null
+  },
+  {
+   "key": "W13_UCLA_USC",
+   "week": 13,
+   "away": "USC",
+   "home": "UCLA",
+   "picks": {
+    "Tyler": "UCLA",
+    "Tatum": "USC",
+    "Abigail": "USC"
+   },
+   "winner": null
+  }
+ ],
+ "conferences": {
+  "SEC": [
+   "Alabama",
+   "Arkansas",
+   "Auburn",
+   "Florida",
+   "Georgia",
+   "Kentucky",
+   "LSU",
+   "Mississippi State",
+   "Missouri",
+   "Oklahoma",
+   "Ole Miss",
+   "South Carolina",
+   "Tennessee",
+   "Texas",
+   "Texas A&M",
+   "Vanderbilt"
+  ],
+  "Big Ten": [
+   "Illinois",
+   "Indiana",
+   "Iowa",
+   "Maryland",
+   "Michigan",
+   "Michigan State",
+   "Minnesota",
+   "Nebraska",
+   "Northwestern",
+   "Ohio State",
+   "Oregon",
+   "Penn State",
+   "Purdue",
+   "Rutgers",
+   "UCLA",
+   "USC",
+   "Washington",
+   "Wisconsin"
+  ],
+  "Big 12": [
+   "Arizona",
+   "Arizona State",
+   "Baylor",
+   "BYU",
+   "Cincinnati",
+   "Colorado",
+   "Houston",
+   "Iowa State",
+   "Kansas",
+   "Kansas State",
+   "Oklahoma State",
+   "TCU",
+   "Texas Tech",
+   "UCF",
+   "Utah",
+   "West Virginia"
+  ],
+  "ACC": [
+   "Boston College",
+   "California",
+   "Clemson",
+   "Duke",
+   "Florida State",
+   "Georgia Tech",
+   "Louisville",
+   "Miami (FL)",
+   "NC State",
+   "North Carolina",
+   "Pittsburgh",
+   "SMU",
+   "Stanford",
+   "Syracuse",
+   "Virginia",
+   "Virginia Tech",
+   "Wake Forest"
+  ],
+  "Notre Dame & Independents": [
+   "Notre Dame"
+  ]
+ }
+}
