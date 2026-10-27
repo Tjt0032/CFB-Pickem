@@ -14,6 +14,8 @@ A pick is correct when it equals that game's `winner`. Games with `"winner": nul
 
 `.github/workflows/pages.yml` publishes the repo root with GitHub's Pages actions (`configure-pages`, `upload-pages-artifact`, `deploy-pages`) on every push to `main`. The public URL is `https://tjt0032.github.io/CFB-Pickem/`.
 
+Turn Pages on once under the repo Settings → Pages → GitHub Actions. Until that source is selected, the workflow stops at the configure step and the URL stays empty.
+
 Keep the player names Tyler, Tatum, and Abigail so their colors stay consistent. `weekDates` is a map of week number to `YYYY-MM-DD`. `conferences` lists the teams in each group the conference table uses.
 
 ## Preview locally
