@@ -1,7 +1,7 @@
 {
  "season": 2026,
- "asOfWeek": 8,
- "asOfNote": "Results through Week 8 (Oct 24, 2026)",
+ "asOfWeek": 9,
+ "asOfNote": "Results through Week 9 (Oct 31, 2026)",
  "players": [
   "Tyler",
   "Tatum",
@@ -3778,7 +3778,7 @@
     "Tatum": "Duke",
     "Abigail": "Duke"
    },
-   "winner": null
+   "winner": "Duke"
   },
   {
    "key": "W09_California_NCState",
@@ -3790,7 +3790,7 @@
     "Tatum": "NC State",
     "Abigail": "NC State"
    },
-   "winner": null
+   "winner": "NC State"
   },
   {
    "key": "W09_Clemson_FloridaState",
@@ -3802,7 +3802,7 @@
     "Tatum": "Florida State",
     "Abigail": "Clemson"
    },
-   "winner": null
+   "winner": "Clemson"
   },
   {
    "key": "W09_GeorgiaTech_Pittsburgh",
@@ -3814,7 +3814,7 @@
     "Tatum": "Georgia Tech",
     "Abigail": "Pittsburgh"
    },
-   "winner": null
+   "winner": "Pittsburgh"
   },
   {
    "key": "W09_Louisville_Stanford",
@@ -3826,7 +3826,7 @@
     "Tatum": "Louisville",
     "Abigail": "Stanford"
    },
-   "winner": null
+   "winner": "Louisville"
   },
   {
    "key": "W09_MiamiFL_NorthCarolina",
@@ -3838,7 +3838,7 @@
     "Tatum": "Miami (FL)",
     "Abigail": "Miami (FL)"
    },
-   "winner": null
+   "winner": "Miami (FL)"
   },
   {
    "key": "W09_SMU_Syracuse",
@@ -3850,7 +3850,7 @@
     "Tatum": "SMU",
     "Abigail": "Syracuse"
    },
-   "winner": null
+   "winner": "Syracuse"
   },
   {
    "key": "W09_Virginia_WakeForest",
@@ -3862,7 +3862,7 @@
     "Tatum": "Virginia",
     "Abigail": "Virginia"
    },
-   "winner": null
+   "winner": "Wake Forest"
   },
   {
    "key": "W09_Arizona_TexasTech",
@@ -3874,7 +3874,7 @@
     "Tatum": "Texas Tech",
     "Abigail": "Texas Tech"
    },
-   "winner": null
+   "winner": "Texas Tech"
   },
   {
    "key": "W09_ArizonaState_BYU",
@@ -3886,7 +3886,7 @@
     "Tatum": "BYU",
     "Abigail": "BYU"
    },
-   "winner": null
+   "winner": "BYU"
   },
   {
    "key": "W09_Baylor_UCF",
@@ -3898,7 +3898,7 @@
     "Tatum": "Baylor",
     "Abigail": "UCF"
    },
-   "winner": null
+   "winner": "Baylor"
   },
   {
    "key": "W09_Cincinnati_Utah",
@@ -3910,7 +3910,7 @@
     "Tatum": "Utah",
     "Abigail": "Utah"
    },
-   "winner": null
+   "winner": "Utah"
   },
   {
    "key": "W09_Colorado_KansasState",
@@ -3922,7 +3922,7 @@
     "Tatum": "Kansas State",
     "Abigail": "Colorado"
    },
-   "winner": null
+   "winner": "Colorado"
   },
   {
    "key": "W09_IowaState_OklahomaState",
@@ -3934,7 +3934,7 @@
     "Tatum": "Iowa State",
     "Abigail": "Iowa State"
    },
-   "winner": null
+   "winner": "Iowa State"
   },
   {
    "key": "W09_Kansas_TCU",
@@ -3946,7 +3946,7 @@
     "Tatum": "TCU",
     "Abigail": "TCU"
    },
-   "winner": null
+   "winner": "TCU"
   },
   {
    "key": "W09_Arkansas_Missouri",
@@ -3958,7 +3958,7 @@
     "Tatum": "Missouri",
     "Abigail": "Arkansas"
    },
-   "winner": null
+   "winner": "Missouri"
   },
   {
    "key": "W09_Auburn_OleMiss",
@@ -3970,7 +3970,7 @@
     "Tatum": "Ole Miss",
     "Abigail": "Ole Miss"
    },
-   "winner": null
+   "winner": "Ole Miss"
   },
   {
    "key": "W09_Florida_Georgia",
@@ -3982,7 +3982,7 @@
     "Tatum": "Georgia",
     "Abigail": "Georgia"
    },
-   "winner": null
+   "winner": "Georgia"
   },
   {
    "key": "W09_MississippiState_Texas",
@@ -3994,7 +3994,7 @@
     "Tatum": "Texas",
     "Abigail": "Texas"
    },
-   "winner": null
+   "winner": "Texas"
   },
   {
    "key": "W09_Oklahoma_SouthCarolina",
@@ -4006,7 +4006,7 @@
     "Tatum": "Oklahoma",
     "Abigail": "Oklahoma"
    },
-   "winner": null
+   "winner": "South Carolina"
   },
   {
    "key": "W09_Illinois_Maryland",
@@ -4018,7 +4018,7 @@
     "Tatum": "Illinois",
     "Abigail": "Illinois"
    },
-   "winner": null
+   "winner": "Illinois"
   },
   {
    "key": "W09_Indiana_Minnesota",
@@ -4030,7 +4030,7 @@
     "Tatum": "Indiana",
     "Abigail": "Indiana"
    },
-   "winner": null
+   "winner": "Indiana"
   },
   {
    "key": "W09_Iowa_Wisconsin",
@@ -4042,7 +4042,7 @@
     "Tatum": "Iowa",
     "Abigail": "Iowa"
    },
-   "winner": null
+   "winner": "Iowa"
   },
   {
    "key": "W09_Michigan_Rutgers",
@@ -4054,7 +4054,7 @@
     "Tatum": "Michigan",
     "Abigail": "Michigan"
    },
-   "winner": null
+   "winner": "Michigan"
   },
   {
    "key": "W09_Nebraska_Washington",
@@ -4066,7 +4066,7 @@
     "Tatum": "Washington",
     "Abigail": "Washington"
    },
-   "winner": null
+   "winner": "Washington"
   },
   {
    "key": "W09_Northwestern_Oregon",
@@ -4078,7 +4078,7 @@
     "Tatum": "Oregon",
     "Abigail": "Oregon"
    },
-   "winner": null
+   "winner": "Oregon"
   },
   {
    "key": "W09_OhioState_USC",
@@ -4090,7 +4090,7 @@
     "Tatum": "Ohio State",
     "Abigail": "Ohio State"
    },
-   "winner": null
+   "winner": "USC"
   },
   {
    "key": "W09_PennState_Purdue",
@@ -4102,7 +4102,7 @@
     "Tatum": "Penn State",
     "Abigail": "Penn State"
    },
-   "winner": null
+   "winner": "Penn State"
   },
   {
    "key": "W09_Nevada_UCLA",
@@ -4114,7 +4114,7 @@
     "Tatum": "UCLA",
     "Abigail": "UCLA"
    },
-   "winner": null
+   "winner": "UCLA"
   },
   {
    "key": "W09_Navy_NotreDame",
@@ -4126,7 +4126,7 @@
     "Tatum": "Notre Dame",
     "Abigail": "Notre Dame"
    },
-   "winner": null
+   "winner": "Notre Dame"
   },
   {
    "key": "W10_BostonCollege_FloridaState",
